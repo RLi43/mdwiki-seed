@@ -11,7 +11,9 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](flaty)
+
+<!--(Litera, lux, Simplex, Superhero, spacelab)-->
 
 
 <!--
