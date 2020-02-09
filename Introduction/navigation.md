@@ -19,8 +19,11 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Bio](pages/Bio.md)
-[Download](pages/download.md)
+[Resume](pages/resume.md)
+
+[Projects & Courses](pages/P&C.md)
+
+[More](pages/more.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -47,13 +50,7 @@
   -- Could be useful when there's more than one language wiki.
   -->
 
-<!---->
-[Change the Language]()
 
-  * [English (United States)](/en_US/)
-  * [English (United Kingdom)](/en_GB/)
-  * [Italian](/it/)
-  * [Chinese](/zh-cn/)
 
 <!--
   -- Let the user choose a theme
