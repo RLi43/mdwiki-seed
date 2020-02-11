@@ -22,7 +22,7 @@
 
 ### ROS-based Baxter experiment platform
 
-* **Robot laboratory**, Department of Automation
+* **Robot laboratory**, Department of Automation, Tsinghua University
 
 * Sep 2018 – May 2019
 
@@ -31,19 +31,26 @@
   * [Play Gobang with human]
   * [Arm movement simulation]
 * Awards:
-  * 
+  * todo
 
 ### iGEM 2018, Tsinghua-A
+
+* Attribution : Designed and constructed the hardware
 
 * Award:
   * Gold Medal
 
-* Attribution : Designed and constructed the hardware
 
 ### Footroller
 
+* Attribution:
+
 * Award
   * Thrid Prize, 2019 China-US Young Maker Competition in Beijing
+
+## Award
+
+
 
 ## Skills
 
@@ -56,6 +63,7 @@
 | C++      |         |
 | Python   |         |
 | Matlab   |         |
+| C#       |         |
 
 #### Hardware
 
@@ -63,6 +71,10 @@
 | -------- | ------- |
 | Arduino  |         |
 | Verilog  |         |
+
+### Others
+
+todo  Git, Wiki, Docker
 
 
 
