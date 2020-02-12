@@ -8,11 +8,16 @@ iGEM, international genetic engineering match.
 
  [![iGEM team](uploads/test.png) ]()
 
+* 
+* sponsored by *Academic Research Promotion Plan for Undergraduate Student*
+
 ### Baxter
 
-
+* sposored by *Academic Research Promotion Plan for Undergraduate Student*
 
 ### Footroller
+
+- sponsored by *College Students' Innovative Entrepreneurial Training Plan Program*
 
 
 
@@ -28,7 +33,7 @@ Since a 6-axis Fanuc robot doesn’t give enough detail about its algorithms, we
 
 I learned about planning algorithm by [Planning Algorithms]( http://planning.cs.uiuc.edu/ ). After reading some papers, algorithms, finally I decided to use BIT* as the main algorithm. I set some penalization for short distance to obstacles.
 
-Here’s the [detailed report.pdf(Chinese)](..\files\report of summer intern(Chinese).pdf) and [PPT]( https://cloud.tsinghua.edu.cn/f/decae61280884d46948e/ ) and a [essential version PPT]( https://cloud.tsinghua.edu.cn/f/a575d20f2ca749b0b7c3/ ).
+Here’s the [detailed report.pdf(Chinese)](..\files\report of summer intern(Chinese).pdf) and [PPT]( https://cloud.tsinghua.edu.cn/f/decae61280884d46948e/ ) and a [essential version PPT]( https://cloud.tsinghua.edu.cn/f/a575d20f2ca749b0b7c3/ ). [Python Demos for biBIT*]( https://github.com/RLi43/RRTs/blob/master/BiBITstar.py )
 
 
 
@@ -105,8 +110,7 @@ Here’s the [detailed report.pdf(Chinese)](..\files\report of summer intern(Chi
 
 IHOS is a project about an app to offer better experience in hospital.
 
-<img src="..\files\Project IHOS\IHOS.jpg" style="zoom:33%;" />
-
+![](..\files\Project IHOS\IHOS.jpg)
 > After discussion in group, we find that there are problems within the existing medical procedure so we decide to choose it as our topic. Our project aims at solving the problems during a medical procedure that are inconvenient for patients and some also make patients uncomfortable, for instance, the repeat payments and the test rooms hard to find. Our target users, the patients want to spend less time, have a convenient and comfortable medical procedure. However, the information they need is provided by the system so they have no access to optimize it. It may be a solution that they remember all the rooms’ positions, but it is definitely another burden for them.
 
 Under this goal, we did some user study, comparative analysis, then we decided our target users, requirements of our product. Next, we had brain storm to set up our conceptual design and display it with low-fidelity prototype. After heuristic evaluation by ourselves and other groups, we refined our design and created our high-fidelity prototype with Justinmind. Finally we did user testing and concluded this project.
