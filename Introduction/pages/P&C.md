@@ -2,22 +2,38 @@
 
 ## Projects
 
-### iGEM
+### The International Genetically Engineered Machine Competition(iGEM) 2018
 
-iGEM, international genetic engineering match.
+* 2017.09 - 2018.10
+* [our wiki](http://2018.igem.org/Team:Tsinghua-A)
 
- [![iGEM team](uploads/test.png) ]()
+[![Tsinghua-A at Jiant Jamboree with poster](../files/igem/Tsinghua-A--Team-photo.jpg) ]( http://2018.igem.org/Team:Tsinghua-A )
 
-* 
+*  attribution:  Designed and constructed the hardware ([Detail](http://2018.igem.org/Team:Tsinghua-A/Hardware ))
 * sponsored by *Academic Research Promotion Plan for Undergraduate Student*
+
+![Hardware Printing](../files/igem/hardware printer.jpg)
 
 ### Baxter
 
-* sposored by *Academic Research Promotion Plan for Undergraduate Student*
+* 2018.09-2019.05
+* 
+
+* sponsored by *Academic Research Promotion Plan for Undergraduate Student*
+* 
+
+#### Play Gobang with human
+
+#### Arm movement simulation
+
+#### Experimental Guide Book for Baxter
+
+
 
 ### Footroller
 
 - sponsored by *College Students' Innovative Entrepreneurial Training Plan Program*
+-  https://github.com/RLi43/Footroller 
 
 
 
@@ -40,6 +56,42 @@ Here’s the [detailed report.pdf(Chinese)](..\files\report of summer intern(Chi
 ## Courses
 
 ### First-Degree Courses and Projects
+
+#### Projects of Foundation of Artificial Intelligence
+
+##### Search: Tangram
+
+![](..\files\tangram\ui_whole.PNG)
+
+A software to play tangram, and solve pattern using search strategy.
+
+![](..\files\tangram\ui.PNG)
+
+[Program and Report](../files/tangram/tangram.zip)
+
+##### Deep Learning: Clothes Classification
+
+![clothes](../files/deep learning/img.png)
+
+##### Reinforcement Learning: Fishing of *Stardew Valley*
+
+https://stardewvalleywiki.com/Fishing 
+
+
+
+#### Numerical Analysis and Algorithms
+
+
+
+#### Digital Image Processing
+
+
+
+#### Computer Networks and Applications
+
+
+
+#### Data Structures
 
 
 

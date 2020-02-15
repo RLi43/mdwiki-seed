@@ -8,23 +8,22 @@
 
 * Sep 2016 – Present
 * GPA: 3.52(137 credits)
-* Core Courses([Details](pages/P&C.md#First-Degree_Courses_and_Projects)): Automatic Control Theory / Computer Networks and Applications / Data Structures / Signals and
-  System Analysis / Digital Electronics 
+* Core Courses([Details](P&C.md#First-Degree_Courses_and_Projects)): Automatic Control Theory / Computer Networks and Applications / Foundation of Artificial Intelligence / Signals and System Analysis / Digital Electronics 
 
 #### Minor Subject:  Technology Innovation & Entrepreneurship Minor on Connected Devices
 
 * Sep 2018 – Present
 
 * GPA: 3.85(19 credits)
-* Core Courses([Details](pages/P&C.md#Minor-Subject_Courses_and_Projects)): Smart Things and Intelligence Systems / Industry frontier
+* Core Courses([Details](P&C.md#Minor-Subject_Courses_and_Projects)): Smart Things and Intelligence Systems / Global Industry and Technology Strategy / Modern Human Factors / Theory and Practice of Human Computer Interaction
 
 ## PROJECTS
 
 ### ROS-based Baxter experiment platform
 
-* **Robot laboratory**, Department of Automation, Tsinghua University
-
 * Sep 2018 – May 2019
+
+* **Robot laboratory**, Department of Automation, Tsinghua University
 
 * Supervisors: Xichun Ma and Prof. Zongying Shi
 * Subprojects: 
@@ -34,22 +33,33 @@
   * First Prize, 30th Student Laboratory Construction Contribution Award of Tsinghua University
   * Second Prize, Excellent Project of Students Research Training
 
-### iGEM 2018, Tsinghua-A
+### The International Genetically Engineered Machine Competition 2018, Tsinghua-A
 
-* Attribution: Designed and constructed the hardware
+* Sep 2017 - Oct 2018
+* [Allergy Testing Master: The Histamine Receptor Based Whole-Yeast Sensor]( http://2018.igem.org/Team:Tsinghua-A )
+* Attribution: Designed and constructed the hardware [wiki]( http://2018.igem.org/Team:Tsinghua-A/Hardware )
 * Award
-  * Gold Medal
+  * Gold Medal, iGEM 2018 
 
+### Footroller: Game shoes for the handicapped
 
-### Footroller
-
-* Attribution: 
+* Sep 2018 - Jan 2020
+* Minor graduation Project
+* Attribution: Project planning, Hardware design and manufacture, program writing. [detail=====]()
 * Award
-  * Thrid Prize, 2019 China-US Young Maker Competition in Beijing
+  * Third Prize, 2019 China-US Young Maker Competition in Beijing
 
-## Award
+### Exploration and Implementation of Motion Planning Algorithm with Specified Optimization Goal
 
+* July 2019 - Sep 2019
+* Summer intern in [Aqrose Technology]( http://www.aqrose.com/ )
+* modified and developed [BIT*]( https://arxiv.org/abs/1405.5848 ) to fit the specified situation in project ([detail](https://cloud.tsinghua.edu.cn/d/7376924d0e0d4d03af2f/ ))
 
+## Scholarships
+
+Technology Innovation Award of Department of Automation, 2019
+
+* sponsored by Guangzhou Pharmaceutical Holdings Limited 
 
 ## Skills
 
