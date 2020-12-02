@@ -1,11 +1,23 @@
 # Projects & Courses
 
+[TOC]
+
+## Prologue
+
+This page briefly introduce the courses and projects I’ve participated in.
+
+Documents:
+
+* [transcription](https://cloud.tsinghua.edu.cn/f/16f854a2c89746dcb83f/)
+* course description
+* 
+
 ## Projects
 
 ### The International Genetically Engineered Machine Competition(iGEM) 2018
 
 * 2017.09 - 2018.10
-* [our wiki](http://2018.igem.org/Team:Tsinghua-A)
+* find more information from [our wiki](http://2018.igem.org/Team:Tsinghua-A)
 
 [![Tsinghua-A at Jiant Jamboree with poster](../files/igem/Tsinghua-A--Team-photo.jpg) ]( http://2018.igem.org/Team:Tsinghua-A )
 
@@ -37,11 +49,7 @@
 
 
 
-### 
-
-### Exploration and Achievement of Planning Algorithm under specific goal
-
-指定优化目标下的运动规划算法探索与实现
+### Exploration and Implementation of Motion Planning Algorithm with Specified Optimization Goal
 
 A summer intern in [Aqrose Technology]( http://www.aqrose.com/ ), a company major in AI for robotics and automation. During the summer of 2019, I worked on planning algorithm of the robot. 
 
@@ -50,6 +58,8 @@ Since a 6-axis Fanuc robot doesn’t give enough detail about its algorithms, we
 I learned about planning algorithm by [Planning Algorithms]( http://planning.cs.uiuc.edu/ ). After reading some papers, algorithms, finally I decided to use BIT* as the main algorithm. I set some penalization for short distance to obstacles.
 
 Here’s the [detailed report.pdf(Chinese)](..\files\report of summer intern(Chinese).pdf) and [PPT]( https://cloud.tsinghua.edu.cn/f/decae61280884d46948e/ ) and a [essential version PPT]( https://cloud.tsinghua.edu.cn/f/a575d20f2ca749b0b7c3/ ). [Python Demos for biBIT*]( https://github.com/RLi43/RRTs/blob/master/BiBITstar.py )
+
+### Internship in Future Lab
 
 
 
@@ -165,7 +175,7 @@ IHOS is a project about an app to offer better experience in hospital.
 ![](..\files\Project IHOS\IHOS.jpg)
 > After discussion in group, we find that there are problems within the existing medical procedure so we decide to choose it as our topic. Our project aims at solving the problems during a medical procedure that are inconvenient for patients and some also make patients uncomfortable, for instance, the repeat payments and the test rooms hard to find. Our target users, the patients want to spend less time, have a convenient and comfortable medical procedure. However, the information they need is provided by the system so they have no access to optimize it. It may be a solution that they remember all the rooms’ positions, but it is definitely another burden for them.
 
-Under this goal, we did some user study, comparative analysis, then we decided our target users, requirements of our product. Next, we had brain storm to set up our conceptual design and display it with low-fidelity prototype. After heuristic evaluation by ourselves and other groups, we refined our design and created our high-fidelity prototype with Justinmind. Finally we did user testing and concluded this project.
+Under this goal, we did some user study, comparative analysis, then we decided our target users, requirements of our product. Next, we had brain storm to set up our conceptual design and display it with low-fidelity prototype. After heuristic evaluation by ourselves and other groups, we refined our design and created our high-fidelity prototype with `Justinmind`. Finally we did user testing and concluded this project.
 
 [the final report of IHOS](..\files\Project IHOS)
 
@@ -182,7 +192,7 @@ Under this goal, we did some user study, comparative analysis, then we decided o
 | 40160413      | Modern Human Factors                              | 3      | B+    | 3.6         | 2019-Autumn |
 | 41510052      | Intelligent Device Innovation Practice(3)         | 2      | A+    | 4.0         | 2019-Autumn |
 
-### Other
+### Other Courses
 
 
 
@@ -206,3 +216,23 @@ Under this goal, we did some user study, comparative analysis, then we decided o
 | 42540163      | College Student Research and Career-creation Program of Beijing City | 3      | P     | N/A                 | 2019-Spring   |
 | 00690622      | Appreciation of Ancient Chinese Poetry                       | 2      | B     | 3.3                 | 2019-Autumn   |
 | 42540023      | Students Research Training                                   | 3      | A+    | 4.0                 | 2019-Autumn   |
+| 42540473      | Beijing Training Program of Innovation and<br/>Entrepreneurship for Undergraduates | 3      | P     | N/A                 | 2020-Spring   |
+
+[^1]: either one hour per week is allotted to lecture or discussion, or two hours per week are allotted to laboratory, while more hours are needed for preparation or subsequent reading and study.
+[^2]:(i) Tsinghua University converted to a LETTER GRADING SYSTEM. The table below shows the grades in detail.(ii) Credits are given for A+, A, A-, B+, B, B-, C+, C, C-, D+, D, P and EX.(iii) W: Withdrew.(iv) I: Incomplete. Marked when a student’s application is approved for not attending the final exam.(v) EX: Exemption. Students receive credits for exempted courses.
+| Grade | Grade Points | Corresponding  100-point Range | Equivalent  100-point value |
+| ----- | ------------ | ------------------------------ | --------------------------- |
+| A+    | 4.0          | 95-100                         | 100                         |
+| A     | 4.0          | 95-100                         | 98                          |
+| A-    | 4.0          | 90-94                          | 92                          |
+| B+    | 3.6          | 85-89                          | 87                          |
+| B     | 3.3          | 80-84                          | 82                          |
+| B-    | 3.0          | 77-79                          | 78                          |
+| C+    | 2.6          | 73-76                          | 75                          |
+| C     | 2.3          | 70-72                          | 71                          |
+| C-    | 2.0          | 67-69                          | 68                          |
+| D+    | 1.6          | 63-66                          | 65                          |
+| D     | 1.3          | 60-62                          | 61                          |
+| F     | 0            | 0-59                           | 0                           |
+| P     | N/A          | N/A                            | N/A                         |
+| F     | N/A          | N/A                            | N/A                         |
