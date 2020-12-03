@@ -6,8 +6,7 @@
 
 * Women’s Basketball Team of Automation Department, Tsinghua University
   * Captain, Feb 2018 – Feb 2019
-
-tododooodoodo
+* As a second class team in Tsinghua, the best ranking we reached in last 4 years is 7th place(of  26 teams)
 
 ## Social Activities
 
@@ -18,5 +17,10 @@ tododooodoodo
   * Awards:
     * Most Popular Team
     * Best Team of Department
-    * best micro video of  todotodotodo 2017 年农村调查优秀微视频奖
+    * best micro video of  rural research, 2017
+* Volunteer
+  * Blood Donation
+  * Campus tour guider
+
+## Pictures of life
 

@@ -3,11 +3,7 @@
 
 ## Hello
 
-This is a website about Jiangfan, an undergraduate in Tsinghua University. She is looking for a summer intern, and you can get some information about her at this website.
-
-## todo
-
-
+This is a website about Jiangfan, an undergraduate in Tsinghua University. 
 
 ## Contact
 

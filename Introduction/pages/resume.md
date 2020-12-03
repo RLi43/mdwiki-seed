@@ -7,14 +7,14 @@
 #### First Degree: Automation
 
 * Sep 2016 – Present
-* GPA: 3.52(137 credits)
+* GPA: 3.56(184 credits)
 * Core Courses([Details](P&C.md#First-Degree_Courses_and_Projects)): Automatic Control Theory / Computer Networks and Applications / Foundation of Artificial Intelligence / Signals and System Analysis / Digital Electronics 
 
 #### Minor Subject:  Technology Innovation & Entrepreneurship Minor on Connected Devices
 
 * Sep 2018 – Present
 
-* GPA: 3.85(19 credits)
+* GPA: 3.87(22 credits)
 * Core Courses([Details](P&C.md#Minor-Subject_Courses_and_Projects)): Smart Things and Intelligence Systems / Global Industry and Technology Strategy / Modern Human Factors / Theory and Practice of Human Computer Interaction
 
 ## PROJECTS
@@ -61,6 +61,8 @@ Technology Innovation Award of Department of Automation, 2019
 
 * sponsored by Guangzhou Pharmaceutical Holdings Limited 
 
+## Social 
+
 ## Skills
 
 ### Programming
@@ -87,5 +89,5 @@ familiar with Git, Wiki, Docker tools.
 
 ### English
 
-* CET4: 606
-* TOEFL: 87 (R:25, L:24, S:20, W:18)
+* TOEFL: 100 (R:30, L:26, S:21, W:23)
+* GRE: V158, Q170, A3.0
