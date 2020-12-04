@@ -20,7 +20,7 @@
     * best micro video of  rural research, 2017
 * Volunteer
   * Blood Donation
-  * Campus tour guider
+  * Campus tour guide
 
 ## Pictures of life
 

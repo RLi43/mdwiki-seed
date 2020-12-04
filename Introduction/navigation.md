@@ -23,7 +23,9 @@
 
 [Resume](pages/resume.md)
 
-[Projects & Courses](pages/P&C.md)
+[Courses](pages/Courses.md)
+
+[Projects](pages/projects.md)
 
 [More](pages/more.md)
 

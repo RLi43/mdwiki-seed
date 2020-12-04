@@ -1,10 +1,10 @@
-# Projects & Courses
+# Courses
 
 [TOC]
 
 ## Prologue
 
-This page briefly introduce the courses and projects I’ve participated in.
+This page briefly introduce the courses I’ve participated in.
 
 Documents:
 
@@ -12,60 +12,15 @@ Documents:
 * course description
 * 
 
-## Projects
 
-### The International Genetically Engineered Machine Competition(iGEM) 2018
 
-* 2017.09 - 2018.10
-* find more information from [our wiki](http://2018.igem.org/Team:Tsinghua-A)
+## Ongoing Courses
 
-[![Tsinghua-A at Jiant Jamboree with poster](../files/igem/Tsinghua-A--Team-photo.jpg) ]( http://2018.igem.org/Team:Tsinghua-A )
-
-*  attribution:  Designed and constructed the hardware ([Detail](http://2018.igem.org/Team:Tsinghua-A/Hardware ))
-* sponsored by *Academic Research Promotion Plan for Undergraduate Student*
-
-![Hardware Printing](../files/igem/hardware printer.jpg)
-
-### Baxter
-
-* 2018.09-2019.05
-* 
-
-* sponsored by *Academic Research Promotion Plan for Undergraduate Student*
-* 
-
-#### Play Gobang with human
-
-#### Arm movement simulation
-
-#### Experimental Guide Book for Baxter
+these courses’ grades will be updated before 2020/04/01.
 
 
 
-### Footroller
-
-- sponsored by *College Students' Innovative Entrepreneurial Training Plan Program*
--  https://github.com/RLi43/Footroller 
-
-
-
-### Exploration and Implementation of Motion Planning Algorithm with Specified Optimization Goal
-
-A summer intern in [Aqrose Technology]( http://www.aqrose.com/ ), a company major in AI for robotics and automation. During the summer of 2019, I worked on planning algorithm of the robot. 
-
-Since a 6-axis Fanuc robot doesn’t give enough detail about its algorithms, we don’t know the accurate trajectory that robot will take, which makes it dangerous to operate in industry site. Therefore, I worked on an algorithm that have enough distance away from the obstacles to make sure that the robot won’t hit them.(Meanwhile, there’s another colleague worked on experiments to conjecture the algorithm in black box.)
-
-I learned about planning algorithm by [Planning Algorithms]( http://planning.cs.uiuc.edu/ ). After reading some papers, algorithms, finally I decided to use BIT* as the main algorithm. I set some penalization for short distance to obstacles.
-
-Here’s the [detailed report.pdf(Chinese)](..\files\report of summer intern(Chinese).pdf) and [PPT]( https://cloud.tsinghua.edu.cn/f/decae61280884d46948e/ ) and a [essential version PPT]( https://cloud.tsinghua.edu.cn/f/a575d20f2ca749b0b7c3/ ). [Python Demos for biBIT*]( https://github.com/RLi43/RRTs/blob/master/BiBITstar.py )
-
-### Internship in Future Lab
-
-### Gloves
-
-## Courses
-
-### Courses Description 
+## Courses Description 
 
 Here’s the brief description for all the courses I’ve been taken as shown in transcription(in same order). Some courses with projects will be depicted in latter sections.
 
@@ -80,33 +35,17 @@ School/Department Department of Automation Major Automation
 
 ###### Military Theory and Skill Training
 
-Course Number:12090043  
-
-Credit: 3 
-
-Grade: A- 
-
-Points: 4.0 
-
-Equivalent 100-point value: 92 
-
-Year-Semester: 2016-Summer
+Course Number:12090043	Credit: 3	Grade: A- 	Points: 4.0(92)	Year-Semester: 2016-Summer
 
 description:
 
+
+
+Every Chinese college has this before-study military training.
+
 ###### Calculus A(1)
 
-Course Number:12090043  
-
-Credit: 3 
-
-Grade: A- 
-
-Points: 4.0 
-
-Equivalent 100-point value: 92 
-
-Year-Semester: 2016-Summer
+Course Number:10421055	Credit: 5	Grade: C+	Points: 2.6(75)	Year-Semester: 2016-Autumn
 
 description:
 
@@ -199,8 +138,6 @@ Beijing City
 Entrepreneurship for Undergraduates
 3 P N/A N/A 2020-Spring
 
-
-
 ### Minor Courses
 
 Technology Innovation & Entrepreneurship
@@ -225,6 +162,8 @@ Year-Semester
 31510113 Entrepreneurship Training 3 A 4.0 98 2019-Autumn
 40160413 Modern Human Factors 3 B+ 3.6 87 2019-Autumn
 41510052 Intelligent Device Innovation Practice(3) 2 A+ 4.0 100 2019-Autumn
+
+## Projects in course
 
 ### First-Degree Courses Projects
 
@@ -283,9 +222,7 @@ Our project is the most popular project in final presentation. We got chocolate 
 
 ![](C:\Users\Robot.Li\Desktop\selfwiki\mdwiki\Introduction\files\Project IHOS\ihos_choc.jpg) 
 
-#### TRANSCRIPT
-
-### Other Courses
+### Other Courses’ Detail
 
 
 
