@@ -1,11 +1,13 @@
 # Projects
 
+[TOC]
+
 ### The International Genetically Engineered Machine Competition(iGEM) 2018
 
 * 2017.09 - 2018.10
 * find more information from [our wiki](http://2018.igem.org/Team:Tsinghua-A)
 
-[![Tsinghua-A at Jiant Jamboree with poster](C:/Users/Robot.Li/Desktop/selfwiki/mdwiki/Introduction/files/igem/Tsinghua-A--Team-photo.jpg) ]( http://2018.igem.org/Team:Tsinghua-A )
+[![Tsinghua-A at Jiant Jamboree with poster](../files/igem/Tsinghua-A--Team-photo.jpg) ]( http://2018.igem.org/Team:Tsinghua-A )
 
 *  attribution:  Designed and constructed the hardware ([Detail](http://2018.igem.org/Team:Tsinghua-A/Hardware ))
 *  sponsored by *Academic Research Promotion Plan for Undergraduate Student*

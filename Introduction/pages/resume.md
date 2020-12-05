@@ -21,6 +21,14 @@ Click the link for more detail.
 
 ## PROJECTS
 
+### The International Genetically Engineered Machine Competition 2018, Tsinghua-A
+
+* Sep 2017 - Oct 2018
+* [Allergy Testing Master: The Histamine Receptor Based Whole-Yeast Sensor]( http://2018.igem.org/Team:Tsinghua-A )
+* Attribution: Designed and constructed the [hardware]( http://2018.igem.org/Team:Tsinghua-A/Hardware )
+* Award
+  * Gold Medal, iGEM 2018 
+
 ### ROS-based Baxter experiment platform
 
 * Sep 2018 – May 2019
@@ -36,14 +44,6 @@ Click the link for more detail.
   * First Prize, 30th Student Laboratory Construction Contribution Award of Tsinghua University
   * Second Prize, Excellent Project of Students Research Training
 
-### The International Genetically Engineered Machine Competition 2018, Tsinghua-A
-
-* Sep 2017 - Oct 2018
-* [Allergy Testing Master: The Histamine Receptor Based Whole-Yeast Sensor]( http://2018.igem.org/Team:Tsinghua-A )
-* Attribution: Designed and constructed the [hardware]( http://2018.igem.org/Team:Tsinghua-A/Hardware )
-* Award
-  * Gold Medal, iGEM 2018 
-
 ### [Footroller: Game shoes for the handicapped](https://rli43.github.io/Jiangfan_Li/Introduction/#!pages/P&C.md#Footroller)
 
 * Sep 2018 - Jan 2020
@@ -58,7 +58,9 @@ Click the link for more detail.
 * Summer intern in [Aqrose Technology]( http://www.aqrose.com/ )
 * modified and developed [BIT* Algorithm]( https://arxiv.org/abs/1405.5848 ) to fit the specified situation in project
 
+Internship in Future Lab
 
+A Gloves-based Joint Pose Sensing System
 
 ## Scholarships
 
