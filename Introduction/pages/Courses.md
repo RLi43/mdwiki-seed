@@ -8,7 +8,7 @@ This page briefly introduce the courses I’ve participated in.
 
 The official courses catalogs can be found in http://zhjwxk.cic.tsinghua.edu.cn/, and the composition of course modules of degree programs can be found in http://zhjw.cic.tsinghua.edu.cn/. Both website need students' ID and password to login. I should have provided you with them if I know you need these data. If I happen to miss it, I would be appreciated to provide as soon as you [remind me](mailto:jf-li16@mails.tsinghua.edu.cn).
 
-It is highly recommended to read the [key to transcript](#KEY TO TRANSCRIPT), especially II and VI.
+It is highly recommended to read the [key to transcript](#!pages/Courses.md#KEY_TO_TRANSCRIPT), especially II and VI.
 
 Documents:
 
@@ -19,7 +19,7 @@ Documents:
 
 these courses’ grades will be updated before 2020/04/01.
 
-##### Financial Big Data and Quantitative Analytics
+#### Financial Big Data and Quantitative Analytics
 
 Course Number: 01510313	Credit: 3	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
 
@@ -29,7 +29,7 @@ Description:
 
 Quantitative investment is a challenging and fascinating field that combines the essence of multidisciplinary disciplines such as mathematical statistics, financial theory, sociology, and psychology. This course starts from a practical point of view and tries to open an entrance to this area with data analysis and model building. In this course, students are instructed to learn basic values and market behaviors, and master the market data analysis methods and tools.
 
-##### yysjgc
+#### Applied stochastic process
 
 Course Number:  30250143	Credit: 3	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
 
@@ -37,9 +37,9 @@ Type: Major Mathematics Course
 
 Description:
 
-随机过程的基本概念、泊松过程及其推广、离散参数与连续参数马尔可夫链、离散鞅引论、马尔可夫决策规划、随机微分方程简介
+The basic concepts of stochastic process, Poisson process and its extension, discrete parameter and continuous parameter Markov chain, discrete martingale introduction, Markov decision planning, introduction to stochastic differential equations.
 
-##### znyhsf
+#### Intelligent optimization algorithm
 
 Course Number: 40250562	Credit: 2	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
 
@@ -47,9 +47,9 @@ Type: Major Optional Course for Automation
 
 Description:
 
-本课程是一门智能优化算法入门课程，简明而系统地介绍模拟退火、遗传算法、禁忌搜索、微粒群优化、差分进化、神经优化、混沌优化及混合策略等热点智能优化算法。内容涉及优化机制、流程、技术，结合实例分析指导算法应用，突出实用技术性和结构统一性。同时，随堂介绍国内外最近研究进展，引导学生自学学术界最新提出的智能优化方法，并开展相应的设计与应用研究。
+This course is an introductory course on intelligent optimization algorithms, concisely and systematically introduces hot-spot intelligent optimization algorithms such as simulated annealing, genetic algorithm, tabu search, particle swarm optimization, differential evolution, neural optimization, chaos optimization and hybrid strategies. The content involves optimization mechanism, process, technology, combined with case analysis to guide algorithm application, highlighting practical technology and structural unity. At the same time, we will introduce the latest research progress at home and abroad, guide students to self-learn the latest intelligent optimization methods proposed by academia, and carry out corresponding design and application research.
 
-##### dy
+#### German as Second Foreign Language(1)
 
 Course Number: 14205054	Credit: 4	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
 
@@ -101,7 +101,7 @@ Due to the difference between Chinese courses system and other courses system, I
 * Practice/Application
 * Lab/Experiment
 
-##### Military Theory and Skill Training
+#### Military Theory and Skill Training
 
 Course Number: 12090043	Credit: 3	Grade: A- 	Points: 4.0(92)	Year-Semester: 2016-Summer 
 
@@ -111,7 +111,7 @@ Description:
 
 Every Chinese college has this before-study military training. Mainly about military theory and military skills training.
 
-##### Calculus A(1)
+#### Calculus A(1)
 
 Course Number: 10421055	Credit: 5	Grade: C+	Points: 2.6(75)	Year-Semester: 2016-Autumn
 
@@ -121,7 +121,7 @@ Description:
 
 This calculus course covers differentiation and integration of one variable, first order ODE, and first order linear equations.
 
-##### Linear Algebra(1)
+#### Linear Algebra(1)
 
 Course Number: 10421094	Credit: 4	Grade: A-	Points: 4.0(92)	Year-Semester: 2016-Autumn
 
@@ -131,7 +131,7 @@ Description:
 
 Linear algebra course, intended primarily for mathematics, science and engineering students. The course covers matrix theory, systems of linear equations, vector spaces and quadratic forms etc., emphasizing topics useful in other disciplines.
 
-##### Ideological Moral and Legal Education
+#### Ideological Moral and Legal Education
 
 Course Number: 10610183	Credit: 3	Grade: C+	Points: 2.6(75)	Year-Semester: 2016-Autumn
 
@@ -141,7 +141,7 @@ Description:
 
 This course, focusing on the moral and legal problems which contemporary college students face in the growth process, teaches students about views of world, of life, of value, of ethics and of legal concept in Marxism and guides students to improve their ideological and moral quality and legal quality.
 
-##### Listening & Speaking for Academic Purposes (3)
+#### Listening & Speaking for Academic Purposes (3)
 
 Course Number: 10641032	Credit: 2	Grade: B+	Points: 3.6(87)	Year-Semester: 2016-Autumn
 
@@ -151,7 +151,7 @@ Description:
 
 This is a learner-centered course at upper-intermediate level, in which students continue to develop their academic listening and speaking skills, involving pronunciation, fluency, accuracy, vocabulary development, and comprehension.
 
-##### Physical Education(1)
+#### Physical Education(1)
 
 Course Number: 10720011	Credit: 1	Grade: B+	Points: 3.6(87)	Year-Semester: 2016-Autumn
 
@@ -161,7 +161,7 @@ Description:
 
 Physical education. Learn a martial art named "Tsinghua Quan".
 
-##### Engineering Graphics
+#### Engineering Graphics
 
 Course Number: 20120273	Credit: 3	Grade: B+	Points: 3.6(87)	Year-Semester: 2016-Autumn
 
@@ -171,7 +171,7 @@ Description:
 
 Learn the basic theories of projection, mechanical drawing and relevant national standards; Master the drawing methods of 3D object with 2D diagram; Be able to identify dimensional tolerances, surface roughness, and the graphic meaning of some standard parts; Be able to understand simple parts drawings; Master the method of ruler drawing and computer software drawing.
 
-##### Inorganic and Analytical Chemistry
+#### Inorganic and Analytical Chemistry
 
 Course Number: 20440314	Credit: 4	Grade: B	Points: 3.3(82)	Year-Semester: 2016-Autumn
 
@@ -183,7 +183,7 @@ I chose this course because of it's of compulsory in former major specialty.
 
 Teach the general principles of chemical reactions, modern knowledge of material structure and elemental chemistry, and the basic content of chemical analysis. Students will be trained in professional and practical understanding of life and the initial ability to solve some inorganic chemistry and chemical analysis problems.
 
-##### Computer Languages and Programming
+#### Computer Languages and Programming
 
 Course Number: 30250023	Credit: 3	Grade: B-	Points: 3.0(78)	Year-Semester: 2016-Autumn
 
@@ -193,7 +193,7 @@ Description:
 
 This course, using C language, teaches the basic knowledge of computer programming courses including C language environment, simple data structure, concepts of program control structure, array, function, pointer, structure, and recursion, sorting, searching, indexing and other commonly used algorithms. 
 
-##### Introduction to Chemical Engineering and Polymer
+#### Introduction to Chemical Engineering and Polymer
 
 Course Number: 30340322	Credit: 2	Grade: P	Points: N/A(N/A)	Year-Semester: 2016-Autumn
 
@@ -203,7 +203,7 @@ Description:
 
 This course is a substitution of *Introduction to Information Science and Technology*, which aims at introducing the specialty to freshmen.
 
-##### Russian as Second Foreign Language(1)
+#### Russian as Second Foreign Language(1)
 
 Course Number: 60640082	Credit: 2	Grade: A-	Points: 4.0(92)	Year-Semester: 2016-Autumn
 
@@ -213,7 +213,7 @@ Description:
 
 This course teaches the pronunciation and writing of letters, basic pronunciation and intonation, some basic grammar, common vocabulary and short passages, and introduce the cultural and national conditions of Russia.
 
-##### Exploration to Scientific Research of Lab1
+#### Exploration to Scientific Research of Lab1
 
 Course Number: S1510021	Credit: 1	Grade: P	Points: N/A(N/A)	Year-Semester: 2016-Autumn
 
@@ -223,7 +223,7 @@ Description:
 
 This course, cooperating with the key laboratories and liberal arts colleges, by on-site teaching, shows students the scientific research process and exposes students to cutting-edge scientific research in different disciplines.
 
-##### Micro/Nano Technology and Instruments
+#### Micro/Nano Technology and Instruments
 
 Course Number: 00130291	Credit: 1	Grade: A-	Points: 4.0(92)	Year-Semester: 2017-Spring
 
@@ -233,7 +233,7 @@ Description:
 
 This course introduces MEMS(micro electro-mechanical system) technology and nano technology for graduate students. About MEMS, we will lecture: MEMS process, micro sensors, micro actuators, optical MEMS, RF MEMS, micro fluidics, Bio-MEMS, power MEMS and so on. About nano technology, we will lecture: nano materials, nano measurement and analysis, nano fabrication and NEMS.
 
-##### Calculus A(2)
+#### Calculus A(2)
 
 Course Number: 10421065	Credit: 5	Grade: B+	Points: 3.6(87)	Year-Semester: 2017-Spring
 
@@ -243,7 +243,7 @@ Description:
 
 This course covers differential, integral and vector calculus for functions of more than one variable, and the definition and properties of series are included as well.
 
-##### Linear Algebra(2)
+#### Linear Algebra(2)
 
 Course Number: 10421102	Credit: 2	Grade: A-	Points: 4.0(92)	Year-Semester: 2017-Spring
 
@@ -253,7 +253,7 @@ Description:
 
 Linear algebra II is mainly composed of linear space and linear transformation, and appropriately increases the content of some modern algebra. This stage should be based on the first stage, focusing on cultivating abstract thinking ability and logical reasoning ability.
 
-##### Physics for Scientists and Engineers B(1)
+#### Physics for Scientists and Engineers B(1)
 
 Course Number: 10430484	Credit: 4	Grade: A 	Points: 4.0(98)	Year-Semester: 2017-Spring
 
@@ -263,7 +263,7 @@ Description:
 
 This course includes Newtonian mechanics, special relativity, vibration and waves, kinetic theory of gases and thermodynamics.
 
-##### Outline of Modern Chinese History
+#### Outline of Modern Chinese History
 
 Course Number: 10610193	Credit: 3	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2017-Spring
 
@@ -273,7 +273,7 @@ Description:
 
 Outline of Modern Chinese History: From the Opium War to the present.
 
-##### Physical Education(2)
+#### Physical Education(2)
 
 Course Number: 10720021	Credit: 1	Grade: B 	Points: 3.3(82)	Year-Semester: 2017-Spring
 
@@ -283,7 +283,7 @@ Description:
 
 Physical education. Learn to play soft volleyball.
 
-##### Principle of Circuits
+#### Principle of Circuits
 
 Course Number: 20220214	Credit: 4	Grade: A- 	Points: 4.0(92)	Year-Semester: 2017-Spring
 
@@ -296,7 +296,7 @@ General analysis method of linear resistance circuit, basic circuit theorem;
 Analysis of sinusoidal current circuits: circuits containing mutual inductance, resonance in the circuit, steady-state analysis of three-phase circuits and periodic non-sinusoidal current circuits; 
 Basic dynamic circuit analysis.
 
-##### Organic Chemistry B
+#### Organic Chemistry B
 
 Course Number: 20440333	Credit: 3	Grade: A- 	Points: 4.0(92)	Year-Semester: 2017-Spring
 
@@ -308,7 +308,7 @@ Former major course.
 
 This course systematically introduces the naming, classification, structure and physical properties of organic compounds, introduces in detail the important reactions of various organic compounds, and discusses important organic reaction mechanisms.
 
-##### Programming Fundamentals
+#### Programming Fundamentals
 
 Course Number: 20740073	Credit: 3	Grade: P 	Points: N/A(N/A)	Year-Semester: 2017-Spring
 
@@ -320,7 +320,7 @@ Former major course.
 
 This course, as a key cornerstone of Computer Science, based on C language, focuses on concepts, methodologies and thinking pattern of computer programming. The main objective of the course is to help students to master basic programming skills, and to promote their abilities of logical, systematical and abstract thinking.
 
-##### Electronic Technology Practice
+#### Electronic Technology Practice
 
 Course Number: 21510202	Credit: 2	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2017-Spring
 
@@ -330,7 +330,7 @@ Description:
 
 Introduce students the general electronic process knowledge including the circuit schematic drawing and simulation, printed circuit of the design and production, the inspection of components and welding, as well as the assembly and commissioning of the product.
 
-##### Lab.of Inorganic and Analytical Chemistry B
+#### Lab.of Inorganic and Analytical Chemistry B
 
 Course Number: 20440532	Credit: 2	Grade: W 	Points: N/A(N/A)	Year-Semester: 2017-Spring
 
@@ -342,7 +342,7 @@ Former major course. This course was withdrew.
 
 Learn standardized basic operations, the correct use of instruments, typical analysis methods, the correct recording of raw data and the method of presenting experimental reports, calculate and analyze experimental errors, understand the meaning and relationship of precision and accuracy in analytical chemistry experiments, be able to use valid figures correctly.
 
-##### Advanced Philosophy of Specific Sciences
+#### Advanced Philosophy of Specific Sciences
 
 Course Number: 00701451	Credit: 1	Grade: A- 	Points: 4.0(92)	Year-Semester: 2017-Summer
 
@@ -353,7 +353,7 @@ Description:
 The lectures introduce Epistemological Issues in Scientific Experiment, including Underdetermination Thesis, Data/Theory Relationships, Data Production and Data Use, Robustness and Realism, Divergence and Realism. 
 This lectures were given by Prof. Mitchell from Univ. of Pittsburgh.
 
-##### Foreign Language Application
+#### Foreign Language Application
 
 Course Number: 10641292	Credit: 2	Grade: P 	Points: N/A(N/A)	Year-Semester: 2017-Summer
 
@@ -363,7 +363,7 @@ Description:
 
 English poetry reading, understanding, discussion and recitation.
 
-##### C++Programme Design and Training
+#### C++Programme Design and Training
 
 Course Number: 30250182 	Credit: 2	Grade: B- 	Points: 3.0(78)	Year-Semester: 2017-Summer
 
@@ -373,7 +373,7 @@ Description:
 
 This course is a practice-oriented high-level language programming course, which is based on the master of C program design and is expanded to the object-oriented C++ programming. 
 
-##### Introduction to Art Appreciation
+#### Introduction to Art Appreciation
 
 Course Number: 00782131	Credit: 1	Grade: P 	Points: N/A(N/A)	Year-Semester: 2017-Autumn 
 
@@ -383,7 +383,7 @@ Description:
 
 The course will invite many famous artists and teaching teachers to give lectures. The content covers the development process of various art forms such as music, dance, drama, opera, film and television, and the production process of excellent works. Appreciating of works enables students to appreciate classic works of various art forms, enhance artistic aesthetic ability, and improve cultural literacy.
 
-##### Introduction to Complex Analysis
+#### Introduction to Complex Analysis
 
 Course Number: 10420252	Credit: 2	Grade: A- 	Points: 4.0(92)	Year-Semester: 2017-Autumn 
 
@@ -393,7 +393,7 @@ Description:
 
 Introduce the definition and properties of complex variable functions and analytic functions, the real and imaginary parts of analytic functions satisfy the Canchy-Riemann equation, the Canchy integral theorem of analytic functions, the study of power series (Abel theorem and the definition of convergence radius), Singularity classification of complex functions, Laurent series, application of residue theorem and conformal mapping, etc.
 
-##### Physics for Scientists and Engineers B(2)
+#### Physics for Scientists and Engineers B(2)
 
 Course Number: 10430494	Credit: 4	Grade: B 	Points: 3.3(82)	Year-Semester: 2017-Autumn 
 
@@ -403,7 +403,7 @@ Description:
 
 This course includes electromagnetism, interference, diffraction and polarization of light, wave-particle duality, Schrodinger's equation, atoms, solids, nuclear physics and particle physics.
 
-##### Lab. of Physics B(1)
+#### Lab. of Physics B(1)
 
 Course Number: 10430801	Credit: 1	Grade: A- 	Points: 4.0(92)	Year-Semester: 2017-Autumn 
 
@@ -413,7 +413,7 @@ Description:
 
 One Introduction class (2 hours) and six fundamental physics experiments (4 hours per experiment) are carried out in one term, covering experiments of mechanics, thermal physics, electrics and geometrical optics. Emphasize on basic experimental techniques, data analysis and report writing.
 
-##### Principle of Marxist Philosophy
+#### Principle of Marxist Philosophy
 
 Course Number: 10610204	Credit: 4	Grade: A- 	Points: 4.0(92)	Year-Semester: 2017-Autumn 
 
@@ -423,7 +423,7 @@ Description:
 
 Study the basic principles of Marxism.
 
-##### Listening & Speaking for Academic Purposes (2)
+#### Listening & Speaking for Academic Purposes (2)
 
 Course Number: 10641022	Credit: 2	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2017-Autumn 
 
@@ -433,7 +433,7 @@ Description:
 
 This is a learner-centered course at intermediate level, aiming to help students develop listening and speaking skills needed in academic activities. During the semester, students listen to lectures from different disciplines, building skills in note-taking, summarizing, discussing the content and giving presentations.
 
-##### Physical Education(3)
+#### Physical Education(3)
 
 Course Number: 10720031	Credit: 1	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2017-Autumn 
 
@@ -443,7 +443,7 @@ Description:
 
 Physical education. Learn to play softball.
 
-##### Lab. of Principle of Circuits
+#### Lab. of Principle of Circuits
 
 Course Number: 20220162	Credit: 2	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2017-Autumn 
 
@@ -453,7 +453,7 @@ Description:
 
 This course is designed to train students engaged in electrical engineering research and work of the basic skills, and mainly guides the students to autonomously, actively learns and uses the learned physics and the circuit course knowledge, and learns the electrical measurement methods, experimental data processing, the use of commonly used electrical and electronic laboratory equipment. 
 
-##### Digital Electronics
+#### Digital Electronics
 
 Course Number: 20250103	Credit: 3	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2017-Autumn 
 
@@ -463,7 +463,7 @@ Description:
 
 The main content of the course is the basic principles of electronic devices, electronic circuits, the analysis and design methods of digital circuits, and typical applications in practice. The knowledge points of the course include the basics of logic algebra, gate circuits, combinational logic circuits, sequential logic circuits, pulse waveform generation and shaping, semiconductor memory, programmable logic devices, and D/A and A/D conversion circuits.
 
-##### Data Structures
+#### Data Structures
 
 Course Number: 30250203	Credit: 3	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2017-Autumn 
 
@@ -475,7 +475,7 @@ This course introduces how to organize the storage, transmission and conversion 
 
 [Projects of Data Structures](Courses.md#)
 
-##### Student Research Training for summer social practice
+#### Student Research Training for summer social practice
 
 Course Number: 42540371	Credit: 1	Grade: A 	Points: 4.0(98)	Year-Semester: 2017-Autumn
 
@@ -487,7 +487,7 @@ Social research on “precise poverty alleviation” policies conducted in Sinan
 
 [Social Practice Detail](more.md#)
 
-##### Interdisciplinary Research and Practice in Dept.of Automation A
+#### Interdisciplinary Research and Practice in Dept.of Automation A
 
 Course Number: 00250154	Credit: 4	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2018-Spring
 
@@ -501,7 +501,7 @@ At the end of the course, a team of some enrolled students will participate in t
 
 [More Detail](Projects.md#)
 
-##### Mathematical Modelling
+#### Mathematical Modelling
 
 Course Number: 00420033	Credit: 3	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2018-Spring
 
@@ -511,7 +511,7 @@ Description:
 
 By introducing a typical case every week, explain what is a mathematical model, and how to use the mechanism analysis method, elementary mathematics and calculus to build the model and solve the problem.
 
-##### Probability and Statistics
+#### Probability and Statistics
 
 Course Number: 10420803	Credit: 3	Grade: C- 	Points: 2.0(68)	Year-Semester: 2018-Spring
 
@@ -521,7 +521,7 @@ Description:
 
 The main content of the course are: Random events and probability, random variables and their distribution, multivariate random variables and their distributions, expectation and variance, the law of large numbers and central limit theorems, statistics and their distributions, estimation, testing hypotheses.
 
-##### Lab. of Physics B(2)
+#### Lab. of Physics B(2)
 
 Course Number: 10430811	Credit: 1	Grade: B  	Points: 3.3(82)	Year-Semester: 2018-Spring
 
@@ -531,7 +531,7 @@ Description:
 
 Six fundamental physics experiments (4 hours per experiment) are carried out in one term, covering experiments of electromagnetism, wave optics and modern physics. Emphasize on experimental techniques, data analysis and report writing.
 
-##### Listening & Speaking for Academic Purposes (1)
+#### Listening & Speaking for Academic Purposes (1)
 
 Course Number: 10641012	Credit: 2	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2018-Spring
 
@@ -541,7 +541,7 @@ Description:
 
 This is a learner-centered course at lower-intermediate level, aiming to help students develop listening and speaking skills needed in academic activities. During the semester, students listen to short lectures from different disciplines, building skills in note-taking, retelling, summarizing, and giving presentations. 
 
-##### Listening & Speaking for Academic Purposes (4)
+#### Listening & Speaking for Academic Purposes (4)
 
 Course Number: 10641042	Credit: 2	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2018-Spring
 
@@ -551,7 +551,7 @@ Description:
 
 This is a learner-centered course at advanced level, aiming to help students develop academic listening and speaking skills. Students work with lectures and interviews during the semester, developing skills in understanding academic oral materials, taking notes, summarizing, discussing content, interviewing, leading discussions, debating, and giving presentations.
 
-##### Physical Education(4)
+#### Physical Education(4)
 
 Course Number: 10720041	Credit: 1	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2018-Spring
 
@@ -561,7 +561,7 @@ Description:
 
 Physical education. Learn to play basketball.
 
-##### Fundamentals of Analog Electronics
+#### Fundamentals of Analog Electronics
 
 Course Number: 20250064	Credit: 4	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2018-Spring
 
@@ -571,7 +571,7 @@ Description:
 
 The course mainly includes the basic knowledge of semiconductor, amplifier, multistage amplifier, integrated operational amplifier, frequency response of amplifier, feedback of amplifier, signal operation and processing, waveform generation and signal conversion, power amplifier, DC power supply circuit, analog electronic circuit schematic analysis, and etc.. 
 
-##### Laboratory of Electronic Circuits
+#### Laboratory of Electronic Circuits
 
 Course Number: 21550012	Credit: 2	Grade: A- 	Points: 4.0(92)	Year-Semester: 2018-Spring
 
@@ -583,7 +583,7 @@ Lab part of Digital Electronics(20250103) and Analog Electronics(20250064).
 
 The course content mainly includes several basic experiments and comprehensive design experiments of digital circuits and analog circuits to deepen students' understanding of digital and analog circuits related knowledge, be familiar with the use of common electronic instruments and EDA simulation tools, master the basic methods of circuit installation and debugging, and train to analyze and troubleshoot circuits.
 
-##### Computer Principles and Applications
+#### Computer Principles and Applications
 
 Course Number: 30250064	Credit: 4	Grade: B 	Points: 3.3(82)	Year-Semester: 2018-Spring
 
@@ -596,7 +596,7 @@ The microprocessor (intel 8086) architecture, address mode and assembly instruct
 Programming with assembly language, IBM PC-based operating systems and system calls; 
 Key programmable peripheral units for a microcomputer system: interrupt, timer/counter, parallel/serial I/O interface, direct memory access, and analog interfaces.
 
-##### Signals and System Analysis
+#### Signals and System Analysis
 
 Course Number: 40250144	Credit: 4	Grade: C 	Points: 2.3(71)	Year-Semester: 2018-Spring
 
@@ -606,7 +606,7 @@ Description:
 
 This course provides an introduction of basic concepts and analytical methods for deterministic signals transferred or processed by linear and time-invariant systems. The contents include theoretical analysis of both continuous-time signals and systems, discrete-time signals and systems in time-domain and frequency-domain respectively.
 
-##### Exploration to Scientific Research of Lab2 
+#### Exploration to Scientific Research of Lab2 
 
 Course Number: S1510031	Credit: 1	Grade: P	Points: N/A(N/A)	Year-Semester: 2018-Spring
 
@@ -616,7 +616,7 @@ Description:
 
 This course, cooperating with the key laboratories and liberal arts colleges, by on-site teaching, shows students the scientific research process and exposes students to cutting-edge scientific research in different disciplines.
 
-##### Metal Working Technology Practice C
+#### Metal Working Technology Practice C
 
 Course Number: 21510082 	Credit: 2	Grade: P	Points: N/A(N/A)	Year-Semester: 2018-Summer
 
@@ -626,7 +626,7 @@ Description:
 
 This course includes knowledge and practice of major machine manufacturing methods such as lathe, milling, grinding, fitter, welding, and casting, as well as advanced manufacturing technology experiments such as CNC machining and special machining.
 
-##### Project of Electronic Circuits
+#### Project of Electronic Circuits
 
 Course Number: 21550033	Credit: 3	Grade: B+	Points: B+(87)	Year-Semester: 2018-Summer
 
@@ -638,7 +638,7 @@ Through the comprehensive application of the knowledge of digital circuits and a
 
 [More detail for project](projects.md#)
 
-##### Lab. of Computer Principles
+#### Lab. of Computer Principles
 
 Course Number: 40250521	Credit: 1	Grade: B+	Points: B+(87)	Year-Semester: 2018-Summer
 
@@ -649,7 +649,7 @@ Description:
 This course is lab part of Computer Principles and Applications.
 The main content includes the use of DAC0832 to realize D/A conversion, the use of ADC0809 to realize A/D conversion, and the use of programmable interface circuit 8255 to realize data parallel I/O and scan display.
 
-##### Cinema as Culture
+#### Cinema as Culture
 
 Course Number: 00670143	Credit: 3	Grade: B+	Points: B+(87)	Year-Semester: 2018-Autumn
 
@@ -659,7 +659,7 @@ Description:
 
 Film and the Other Arts; Film Itself; Style and Technique of the Narrative Film; Analysis to the Classic Moves.
 
-##### Physical Education(1)
+#### Physical Education(1)
 
 Course Number: 10720110	Credit: 0	Grade: C+	Points: 2.6(75)	Year-Semester: 2018-Autumn
 
@@ -669,7 +669,7 @@ Description:
 
 Physical education. Learn a martial art, Karate. 
 
-##### Computer Networks and Applications
+#### Computer Networks and Applications
 
 Course Number: 30250093	Credit: 3	Grade: B+	Points: 3.6(87)	Year-Semester: 2018-Autumn
 
@@ -681,7 +681,7 @@ This course serves as an introduction to computer networks. We start from an ove
 
 [More detail for project](course.md#Projects)
 
-##### Fundamentals of Power Electronics
+#### Fundamentals of Power Electronics
 
 Course Number: 30250212	Credit: 2	Grade: B+	Points: 3.6(87)	Year-Semester: 2018-Autumn
 
@@ -691,7 +691,7 @@ Description:
 
 This course covers the working principles, characteristics, parameters and usage requirements of commonly used power electronic semiconductor components, as well as the analysis, design, debugging, simulation of basic power electronic circuits (basic power conversion circuit, drive and protection, PWM,...); technical requirements, performance characteristics and analysis and design methods of general power electronic devices and control systems; Application status and development trend of power electronic technology.
 
-##### Automatic Control Theory(1)
+#### Automatic Control Theory(1)
 
 Course Number: 40250074	Credit: 4	Grade: A-	Points: 4.0(92)	Year-Semester: 2018-Autumn
 
@@ -701,9 +701,7 @@ Description:
 
 This course systematically introduces the analysis and synthesis methods of control systems based on input-output descriptions. The main content includes the derivation of differential equations and transfer functions for simple physical systems, the algebraic stability criterion and its applications, the transformation and simplification of complex control networks based on the block diagram and the signal flow, the derivation of closed-loop transfer functions, the analysis of dynamical characteristics of second-order systems, the analysis and calculation of steady-state error, the drawing of Bode and Nyquiest plots, the Nyquist stability criterion and its applications, the steady-state and dynamical analysis of closed-loop systems from its open-loop frequency response, the property and drawing of root loci, fundamental principles and design methods of series compensation, analyses of nonlinear systems based on phase plan and describing functions, and the stability analysis of sampled-data control systems.
 
-D’azzo J.J. and Houpis C.H., Linear Control System Analysis and Design
-
-##### Digital Image Processing
+#### Digital Image Processing
 
 Course Number: 40250353	Credit: 3	Grade: B	Points: 3.3(82)	Year-Semester: 2018-Autumn
 
@@ -715,7 +713,7 @@ This course mainly focuses on basic concepts, main principles of digital image p
 
 [More detail for the projects](Course.md#)
 
-##### Numerical Analysis and Algorithms
+#### Numerical Analysis and Algorithms
 
 Course Number: 40250443	Credit: 3	Grade: B+	Points: 3.6(87)	Year-Semester: 2018-Autumn
 
@@ -727,7 +725,7 @@ Numerical analysis is the study of methods and techniques to find the approximat
 
 [More detail for the projects](Course.md#)
 
-##### Control Theory Experiments on Special topics(2)
+#### Control Theory Experiments on Special topics(2)
 
 Course Number: 40250861	Credit: 1	Grade: B+	Points: 3.6(87)	Year-Semester: 2018-Autumn
 
@@ -737,7 +735,7 @@ Description:
 
 Inverted pendulum modeling and control experiment: students need to deduct transfer function and state space equation base on the principle of physical; model to enhance system controllability, observability, and stability; design controller using root locus, frequency response, or pole assignment methods; achieve simulation and real-time control of inverted pendulum system.
 
-##### Introduction to Mao Zedong Thoughts and Theoretical System of Socialism with Chinese Characteristic
+#### Introduction to Mao Zedong Thoughts and Theoretical System of Socialism with Chinese Characteristic
 
 Course Number: 10610224	Credit: 4	Grade: A-	Points: 4.0(92)	Year-Semester: 2019-Spring
 
@@ -748,7 +746,7 @@ Description:
 Learn *Introduction to Mao Zedong Thoughts and Theoretical System of Socialism with Chinese Characteristic* through MOOC;
 Read the book *Deng Xiaoping and the Transformation of China* by *EZRA F. VOGEL* and discuss in group.
 
-##### Physical Education(2)
+#### Physical Education(2)
 
 Course Number: 10720020	Credit: 0	Grade: B- 	Points: 3.0(78)	Year-Semester: 2019-Spring
 
@@ -758,7 +756,7 @@ Description:
 
 Physical education. Learn to play tennis.
 
-##### Operations Research
+#### Operations Research
 
 Course Number: 20250193	Credit: 3	Grade: B 	Points: 3.3(82)	Year-Semester: 2019-Spring
 
@@ -768,7 +766,7 @@ Description:
 
 This course systematically introduces the mathematical description and the solving methods of linear programming, integer linear programming, nonlinear programming, dynamic programming and network optimization. The main point of this course include the simplex algorithm and the dual simplex algorithm of linear programming, the cutting plane algorithm and the branch and bound algorithm of integer linear programming, the optimality conditions and the feasible descent algorithm of nonlinear programming, the value iteration algorithm and the policy iteration algorithm of the dynamic programming, and the improved algorithm of basic algorithm for specific problems, such as the improved simplex algorithm in solving transportation problem, assignment problem and the network optimization problem etc.. In this course, the mathematical model of optimization problem is derived from a typical example by combining theory with practice, and then the conditions and characteristics of the model are analyzed, the properties of the optimal solution and the basic solution method are studied. Finally the relative knowledge points can be thoroughly understood through the practice of meticulously designed curriculum research project.
 
-##### Intelligent Control of Robots
+#### Intelligent Control of Robots
 
 Course Number: 40250393	Credit: 3	Grade: A 	Points: 4.0(98)	Year-Semester: 2019-Spring
 
@@ -778,7 +776,7 @@ Description:
 
 The course is intended for senior undergraduates and covers following contents: space description and spatial transformation, robot kinematics and inverse kinematics, motion Jacobian, robot dynamics, trajectory planning, robot motion control, composition of intelligent robot system, etc. Meanwhile, a series experiments are set up on real HP3 robots, which include teach and playback experiment, kinematics and inverse kinematics experiment, and an open comprehensive experiment where the task and program are designed by students themselves independently. The aim of the course is to make students master the basic robotics systematically, understand the frontier technology in the field of robotics, and train the ability to solve practical problems and innovative ability.
 
-##### Measurement Principle
+#### Measurement Principle
 
 Course Number: 40250762	Credit: 2	Grade: B 	Points: 3.3(82)	Year-Semester: 2019-Spring
 
@@ -788,7 +786,7 @@ Description:
 
 The course mainly introduces the basic knowledge of sensor and measurement technology, including the basic principle of sensor and measurement, engineering signal transformation, system performance analysis, error analysis and measurement uncertainty evaluation. It explains principle and method of measuring the main industrial parameters, such as displacement, distance, velocity and acceleration of mechanical parameters, temperature, pressure, level and flow of process parameters, while combining in scientific research and industrial practice, explaining their application condition and and anti interference technology.
 
-##### Electrical Driver and Motion Control System
+#### Electrical Driver and Motion Control System
 
 Course Number: 40250774	Credit: 4	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2019-Spring
 
@@ -798,7 +796,7 @@ Description:
 
 The lecture includes the principals of DC and AC electrical machines and control principal and system design methods of motion control system consisted of electric machines. The main contents are as follows. (1) Principal of the conversion between mechanical power/energy and electrical ones (2) Principals, characteristics and modelling methods of DC and AC electrical machines (3) Principals of the motor drive and typical load characteristics (4) Principals and design methods of typical DC and AC drive systems and their applications.
 
-##### Motion Control Experiments on Special topics(1)
+#### Motion Control Experiments on Special topics(1)
 
 Course Number: 40250831	Credit: 1	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2019-Spring
 
@@ -808,7 +806,7 @@ Description:
 
 The lab part of Electrical Driver and Motion Control System. This course includes three parts: (1) The PWM control of the double closed-loop DC motor system. (2) The DeviceNet based AC frequency transformer, use the PLC controller and AC drives and DeviceNet fieldbus to construct the system. (3) Use the Matlab Simulink software to build the double closed-loop control system.
 
-##### College Student Research and Career-creation Program of Beijing City
+#### College Student Research and Career-creation Program of Beijing City
 
 Course Number: 42540163	Credit: 3	Grade: P 	Points: N/A(N/A)	Year-Semester: 2019-Spring
 
@@ -818,7 +816,7 @@ Description:
 
 A project during the course in minor degree, applied for the assistance of this program.
 
-##### Practice of Speciality
+#### Practice of Speciality
 
 Course Number: 40250745	Credit: 5	Grade: A 	Points: 4.0(98)	Year-Semester: 2019-Summer
 
@@ -830,7 +828,7 @@ This course is professional practice/internship based and is to provide student 
 
 This will be described in detail in my projects page.
 
-##### Appreciation of Ancient Chinese Poetry
+#### Appreciation of Ancient Chinese Poetry
 
 Course Number: 00690622	Credit: 2	Grade: B 	Points: 3.3(82)	Year-Semester: 2019-Autumn 
 
@@ -841,7 +839,7 @@ Description:
 Lectures: The general trend of the development of ancient Chinese poetry, The Book of Songs, The Songs of Chu, Yuefu Songs of the Han Dynasty, Nineteen Ancient Poems, Jian An Period's Poetry, Zhengshi Period's Poetry, Poems of Tao Yuanming, Poems of Li Bai, Poems of Du Fu, Poems of  Wang Wei, Poems of Li Shangyin, etc. 
 Class discussion: "The Peacock Flies Southeast", "Eternal Regret". Encourage students to actively participate in class discussions and presentations.
 
-##### Foundation of Artificial Intelligence
+#### Foundation of Artificial Intelligence
 
 Course Number: 30250333	Credit: 3	Grade: A- 	Points: 4.0(92)	Year-Semester: 2019-Autumn 
 
@@ -853,7 +851,7 @@ This course mainly focuses on the basics and fundamentals of artificial intellig
 
 [More detail about projects](Course.md#)
 
-##### Students Research Training
+#### Students Research Training
 
 Course Number: 4254002	Credit: 3	Grade: A+ 	Points: 4.0(100)	Year-Semester: 2019-Autumn 
 
@@ -865,7 +863,7 @@ The SRT program *ROS-based Baxter experiment platform*.
 
 This will be described in detail in my projects page.
 
-##### Network Security Principle and Application
+#### Network Security Principle and Application
 
 Course Number: 80230632	Credit: 2	Grade: P 	Points: N/A(N/A)	Year-Semester: 2019-Autumn 
 
@@ -875,7 +873,7 @@ Description:
 
 The purpose of this course is to provide a solid understanding of the main issues related to security in modern networked computer systems. This course covers underlying concepts and foundations of computer network security, basic knowledge about security-relevant decisions in designing IT infrastructures, techniques to secure complex systems and practical skills in managing a range of systems, from personal laptop to large-scale infrastructures. The course structure is designed to provide solid foundations in the first half of the course, and discuss concrete application scenarios in the second half, including wireless security, Botnet, Spamming, Privacy, IP Prefix Hijacking, DDoS, and so on. Students read recent research papers on network security and share in the classroom.
 
-##### Beijing Training Program of Innovation and Entrepreneurship for Undergraduates
+#### Beijing Training Program of Innovation and Entrepreneurship for Undergraduates
 
 Course Number: 42540473	Credit: 3	Grade: P 	Points: N/A(N/A)	Year-Semester: 2019-Spring
 
@@ -900,7 +898,7 @@ This program is composed of 3 modules:
 * Practice Course
 * Optional Course
 
-##### Smart Things and Intelligence Systems
+#### Smart Things and Intelligence Systems
 
 Course Number: 01510202 	Credit: 2	Grade: A- 	Points: 4.0(92)	Year-Semester: 2018-Autumn
 
@@ -910,7 +908,7 @@ Description:
 
 Basic Python Programming; Software tools: Wiki/Git/Markdown; Introduction of PYNQ, Jetson,Raspberry Pi and other intelligent hardware; Introduction of Alpha Ebot of UbTech, and students will design a project based on it in group.
 
-##### Global Industry and Technology Strategy 
+#### Global Industry and Technology Strategy 
 
 Course Number: 41510013	Credit: 3	Grade: A- 	Points: 4.0(92)	Year-Semester: 2018-Autumn
 
@@ -920,7 +918,7 @@ Description:
 
 This course guides students to study the evolutionary path of industries by acquiring knowledge about its historical facts and its current trends. The goal is to help students immerse themselves in a global context of strategic industrial development. The course is composed of varying formats of learning activities, including lectures, invited speakers, case study, seminar discussion, and debate labs. Students must submit weekly learning summaries on Mediawiki and collaborate with team members to develop an Industry Analysis Report (IAR) using electronic publishing workflow. We hope this course could offer students a way to analyze an industry of their own interests and think about the future of personal career development in the context of global industry frontiers. We also hope that by co-authoring an IAR, students can experience many aspects of team decision making, and think about their future career possibilities with industry trend in mind.
 
-##### Intelligent Device Innovation Practice(1)
+#### Intelligent Device Innovation Practice(1)
 
 Course Number: 41510032	Credit: 2	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2018-Autumn
 
@@ -930,7 +928,7 @@ Description:
 
 The students in groups will finish a report about a particular type of intelligent device, including the market analysis, the user experience analysis, the disassembly of intelligent device to analyze the technology and patents used.
 
-##### Design Thinking
+#### Design Thinking
 
 Course Number: 31510093	Credit: 3	Grade: A 	Points: 4.0(98)	Year-Semester: 2019-Spring
 
@@ -942,7 +940,7 @@ Design thinking courses provide design thinking tools and methodology for innova
 
 This course carries out the study of design thinking tools and methodology through a project-driven approach, and provides students with training in design concepts and research, design positioning and analysis, design creativity and prototypes, design publication and evaluation, and cultivates students' ability to explore user needs Comprehension ability, creative ability of developing ideas, realization ability of product prototype and teamwork ability of collaboration, thus supporting student teams to use design thinking as a tool to explore and solve global challenges and social problems.
 
-##### Theory and Practice of Human Computer Interaction
+#### Theory and Practice of Human Computer Interaction
 
 Course Number: 40240912 	Credit: 2	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2019-Spring
 
@@ -952,7 +950,7 @@ Description:
 
 This course mainly teach the basic theories, key technologies, integration methods, test evaluation and innovative practice of human-computer interaction. This course includes lectures part and the practical part. Lectures covers the multi-disciplinary basic knowledge, theoretical methods and key technologies involved in human-computer interaction; The scientific and technological creation practice will help students with the comprehensive application ability of applying theoretical knowledge in the development of intelligent hardware, of teamwork and of innovation.
 
-##### Intelligent Device Innovation Practice(2)
+#### Intelligent Device Innovation Practice(2)
 
 Course Number: 41510042	Credit: 2	Grade: A 	Points: 4.0(98)	Year-Semester: 2019-Spring
 
@@ -962,7 +960,7 @@ Description:
 
 During the second semester, students will come up with the ideas of innovation of specific device, and group into teams according to their interests. Under the advisement of teachers, teams will refine their design and make a prototype. They will also participate in the competition held in Tsinghua Univ.
 
-##### Entrepreneurship Training
+#### Entrepreneurship Training
 
 Course Number: 31510113	Credit: 3	Grade: A 	Points: 4.0(98)	Year-Semester: 2019-Autumn
 
@@ -972,7 +970,7 @@ Description:
 
 This course includes entrepreneurial concept, spirit and entrepreneurial skills training. Though lectures, students will learn how managers be able to seize opportunities in a changing environment, how to integrate resources, how to create a new organization or transform an existing organization, so as to create a new business and create value for themselves, other stakeholders and society. Creatively solving problems when facing the existing constraints, and transform the constrained environment are valuable for student no matter what job they will take after their graduation. Management tools and analytical framework related to this field will be further carried out in subsequent courses.
 
-##### Modern Human Factors
+#### Modern Human Factors
 
 Course Number: 40160413	Credit: 3	Grade: B+ 	Points: 3.6(87)	Year-Semester: 2019-Autumn
 
@@ -989,7 +987,7 @@ The course includes 1) Human's cognitive characteristics and information display
 
 [More detail about the project](#projects)
 
-##### Intelligent Device Innovation Practice(3)
+#### Intelligent Device Innovation Practice(3)
 
 Course Number: 41510052	Credit: 2	Grade: A+ 	Points: 4.0(100)	Year-Semester: 2019-Autumn
 
@@ -1001,8 +999,6 @@ Description:
 In the third semester, the team will refine their work, write an entrepreneurship plan, write a patent application, and finish the final project defense.
 
 ## Projects in course
-
-### First-Degree Courses Projects
 
 #### Data Structures
 
@@ -1042,11 +1038,9 @@ https://stardewvalleywiki.com/Fishing
 
 
 
-### Minor-Subject Courses Projects
-
 ####   Modern Human Factors - Project IHOS
 
-IHOS is a project about an app to offer better experience in hospital.
+IHOS is a project about an app to provide better experience in hospital.
 
 ![](..\files\Project IHOS\IHOS.jpg)
 > After discussion in group, we find that there are problems within the existing medical procedure so we decide to choose it as our topic. Our project aims at solving the problems during a medical procedure that are inconvenient for patients and some also make patients uncomfortable, for instance, the repeat payments and the test rooms hard to find. Our target users, the patients want to spend less time, have a convenient and comfortable medical procedure. However, the information they need is provided by the system so they have no access to optimize it. It may be a solution that they remember all the rooms’ positions, but it is definitely another burden for them.
@@ -1059,30 +1053,26 @@ Our project is the most popular project in final presentation. We got chocolate 
 
 ![](..\files\Project IHOS\ihos_choc.jpg) 
 
-### Other Courses’ Detail
-
-
-
 ## KEY TO TRANSCRIPT
 
-##### I. COURSE NUMBERING SYSTEM
+#### I. COURSE NUMBERING SYSTEM
 
 Each course number consists of 8-10 characters.
 The first character indicates the course level:
 0-4 or H-T, W = undergraduate courses
 6-9, A-G or X-Z = graduate courses
 
-##### II. CREDIT
+#### II. CREDIT
 
 Credit is reported in terms of semester hours, whether earned during a 16-week semester or a summer session. For 1 unit of credit, either one hour per week is allotted to lecture or discussion, or two hours per week are allotted to laboratory, while more hours are needed for preparation or subsequent reading and study.
 
-##### III. THE RECORD ENDS WITH `**********`.
+#### III. THE RECORD ENDS WITH `**********`.
 
-##### IV. DATE OF GRADUATION and DEGREE CONFERRED
+#### IV. DATE OF GRADUATION and DEGREE CONFERRED
 
 For currently enrolled undergraduates, the columns of DATE OF GRADUATION and DEGREE CONFERRED are `**********`.
 
-##### V. GRADING SYSTEMS
+#### V. GRADING SYSTEMS
 
 a) EFFECTIVE for students who matriculated in spring 2015 and after
 	(i) Tsinghua University converted to a LETTER GRADING SYSTEM. The table below shows the grades in detail.
@@ -1116,11 +1106,11 @@ b) EFFECTIVE for students who matriculated prior to spring 2015
 		DISTINCTION (for undergraduates only): Credits are given for DISTINCTION.
 	(iii) REPEATED COURSES: The transcript displays only the latest result of a repeated course. Repeated courses are designated with an “Rn” code beside the final grade, where “n” indicates the number of times the course was repeated.
 
-##### VI. GRADING POLICY REFORM 2015-2018
+#### VI. GRADING POLICY REFORM 2015-2018
 
 In the ten years prior to spring 2015, 30 percent of A-range grades have been given. From fall 2015, Tsinghua initiated a grading reform: A-range grades (A+, A, A-) were to account for 20 percent of the grades given in all courses. In Spring 2019, the faculty reaffirmed its commitment to fair and transparent assessment and removed its numeric target for the percent of A-range grades.
 
-##### VII. GPA CALCULATION  
+#### VII. GPA CALCULATION  
 
 $$
 GPA =
