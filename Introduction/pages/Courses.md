@@ -1002,15 +1002,54 @@ In the third semester, the team will refine their work, write an entrepreneurshi
 
 #### Data Structures
 
+##### Reconstruct photo in random view point through several photos
 
+How to get a photo in random view point though several photos of this scene? There are several traditional way can reconstruct 3D model from RGB photos. However, simply projecting the 3D model will get some black area for there are always some objects lacking enough information can not be reconstruct. In paper *Depth Synthesis and Local Warps for Plausible Image-based Navigation*, a new method using the wrap of photos taken near the assigned view point was purposed. 
+
+1. use MVE to get point cloud and the paraments of camera of different photos.
+2. reconstruction of photos
+   1. divide the photos into superpixels
+   2. get depth information of each superpixels through 3D point cloud
+   3. for those superpixels without corresponding point cloud, use the nearest superpixels’ depth. ‘Near’ is defined by the similarity graph. Dijkstra Algorithm can be applied here.
+3. Interpolation
+   1. distort 4 nearest photos to current view point
+   2. average of 4 photos’ result
+
+![superpixels](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/data%20structure/ds1.jpg)
+
+![reconstruction](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/data%20structure/ds2.jpg)
+
+##### 3D reconstruction through multiple views
+
+Reconstruction of visual hull is a time costing work. Here I use the conception of Octree to reduce the computational complexity of reconstruction and inquiry about neighboring information.
+
+<img src="https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/data%20structure/ds3.png" alt="use Octree to represent the status of regions(in/out of the model)" style="zoom:33%;" />
+
+With appropriate data structure, the computation time of point cloud is reduced 10 times(from 17s to 1.7s). 
+
+Also, PCA is applied to calculate the normal vector.
+
+![before - after](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/data%20structure/ds4.png)
 
 #### Computer Networks and Applications
 
+##### Online chatroom based on center server
 
+The code can be find here: https://github.com/RLi43/P2P-Chat-Room-base-on-Centrel-Sever
+
+It is a PC application, an online chatroom, which is able to chat in P2P(the query of status is based on center server `CS`), group chat, send files.
+
+<img src="https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/computer%20network/cn1.jpg" alt="Login" style="zoom:33%;" /> <img src="https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/computer%20network/cn2.jpg" alt="Main window" style="zoom:50%;" />
 
 #### Digital Image Processing
 
+##### Fingerprint enhancement
 
+Enhance the quality of fingerprint using frequency filtering.
+
+1. divide photo into 8x8 blocks, check if is part of fingerpring.
+2. use 2D FFT to get the direction and the frequency of each blocks.
+3. low-pass filter
 
 #### Numerical Analysis and Algorithms
 
