@@ -1014,44 +1014,62 @@ In the third semester, the team will refine their work, write an entrepreneurshi
 
 #### Numerical Analysis and Algorithms
 
+##### Transformation of face
 
+Transform a face into a expression from another one.
+
+1. extract the key points of human face(68 points).
+2. use TPS or B-spline to get the transformation function of two groups of key points.
+3. apply the transformation to distort the source image. Interpolation is applied to calculate the value of integer points from value of non-integer points(from distortion). Different interpolate methods are used and its errors are analyzed.
+
+![Face Transformation](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/Numerical%20Analysis/na.png)
 
 #### Foundation of Artificial Intelligence
 
 ##### Search: Tangram
 
-![](..\files\tangram\ui_whole.PNG)
+![tangram](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/tangram/ui_whole.PNG)
 
 A software to play tangram, and solve pattern using search strategy.
 
-![](..\files\tangram\ui.PNG)
+![solve tangram](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/tangram/ui.PNG)
 
-[Program and Report](../files/tangram/tangram.zip)
+the representation of tangram is realized through chaincode.
 
 ##### Deep Learning: Clothes Classification
 
-![clothes](../files/deep learning/img.png)
+Use deep learning to classify clothes.
+
+![clothes](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/deep learning/img.png)
+
+The project, based on `PyTorch`, includes data preprocessing, data enhancement(transform photos for better adaptation), training, testing. and evaluation. Different models are used, including CNN, GoogLeNet, ResNet, and DenseNet.
 
 ##### Reinforcement Learning: Fishing of *Stardew Valley*
 
 https://stardewvalleywiki.com/Fishing 
 
+In Stardew Valley, you can go fishing. click the mouse to control the cursor, and keep the fish within the range of cursor for a span of time, you will catch it. Or, lose it if you can't keep it.
 
+using DQN, ai can learn to catch it through experience performed by human or itself.
+
+![performance at first](https://cloud.tsinghua.edu.cn/d/a54c26b100784447b8f3/files/?p=%2Fstardew%20valley%2F1.gif)
+
+![performance after training](https://cloud.tsinghua.edu.cn/d/a54c26b100784447b8f3/files/?p=%2Fstardew%20valley%2Fhard.gif)
 
 ####   Modern Human Factors - Project IHOS
 
 IHOS is a project about an app to provide better experience in hospital.
 
-![](..\files\Project IHOS\IHOS.jpg)
+![IHOS](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/Project%20IHOS/IHOS.jpg)
 > After discussion in group, we find that there are problems within the existing medical procedure so we decide to choose it as our topic. Our project aims at solving the problems during a medical procedure that are inconvenient for patients and some also make patients uncomfortable, for instance, the repeat payments and the test rooms hard to find. Our target users, the patients want to spend less time, have a convenient and comfortable medical procedure. However, the information they need is provided by the system so they have no access to optimize it. It may be a solution that they remember all the rooms’ positions, but it is definitely another burden for them.
 
 Under this goal, we did some user study, comparative analysis, then we decided our target users, requirements of our product. Next, we had brain storm to set up our conceptual design and display it with low-fidelity prototype. After heuristic evaluation by ourselves and other groups, we refined our design and created our high-fidelity prototype with `Justinmind`. Finally we did user testing and concluded this project.
 
-[the final report of IHOS](..\files\Project IHOS)
+[the final report of IHOS](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/Project%20IHOS/)
 
-Our project is the most popular project in final presentation. We got chocolate as the reward from Mrs. Gao.
+Our project is the most popular project in final presentation. We got chocolate as the reward from Ms. Gao.
 
-![](..\files\Project IHOS\ihos_choc.jpg) 
+![](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/Project%20IHOS/ihos_choc.jpg) 
 
 ## KEY TO TRANSCRIPT
 
