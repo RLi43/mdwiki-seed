@@ -25,7 +25,7 @@
 
 [Courses](pages/Courses.md)
 
-[Projects](pages/projects.md)
+[Projects](pages/Projects.md)
 
 [More](pages/more.md)
 
