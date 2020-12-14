@@ -8,7 +8,7 @@
   * Captain, Feb 2018 – Feb 2019
 * As a second class team in Tsinghua, the best ranking we reached in last 4 years is 7th place(of  26 teams), but all of us gain happiness and friendship through training.
 
-![on field](https://cloud.tsinghua.edu.cn/seafhttp/files/07f5a9c9-4887-4bce-805c-c9d327e1c445/DSC02353.JPG)
+![on field](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/basketball/DSC02353.JPG)
 
 ## Social Activities
 
