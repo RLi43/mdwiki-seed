@@ -1,14 +1,6 @@
 # Resume
 
-Jiangfan Li
-
-Room 202A, Zijing 8#, Tsinghua University, Beijing, China, 100084
-
-+86 13121283966 (cell)
-
-rdemezerl@gmail.com, jf-li16@mails.tsinghua.edu.cn
-
-[Personal Website](https://rli43.github.io/Jiangfan_Li/Introduction/#!pages/resume.md)
+[Resume(pdf)](https://cloud.tsinghua.edu.cn/f/826fd3b273a146e7993b/)
 
 ## Education
 

@@ -4,7 +4,7 @@
 
 Holding the dream of liberating human beings of involuntary labor, I have the aspiration of research in robot manipulation and application of it to help work.
 
-Scientific research has reached such a great achievement at present, however, human beings do not fully utilize it and apply them in applications contributing to the general public. From my previous experience, I would highlight the following factors. Prototype tools become more convenient and effective, of which researchers may not be aware. Products lack consideration in human-centered design and markets. Non-open source environment impedes the development of commercial products. I would like to learn knowledge in related areas before entering my career in robotics.
+Scientific research has reached such a great achievement at present, however, human beings do not fully utilize it and apply them in applications contributing to the general public. From my previous experience, I would highlight the following factors. Prototype tools become more convenient and effective, of which researchers may not be aware. Products lack consideration in human-centered design and markets. Non-open source environment impedes the development of commercial products. I would like to learn knowledge in related areas before entering my career in robotics. In other words, I pursue the output, and approaches of related research area interest me.
 
 Compared with completely virtual artificial intelligence, concrete actuators, robots give me more belief to be applied in the real world and replace human workers. Also, I have a natural propensity for robots emerging from my experience in sci-fi works. The reliable and devoted robots depicted in gold-age science fictions always stir my heart.
 
