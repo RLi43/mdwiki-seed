@@ -2,6 +2,8 @@
 
 [TOC]
 
+This page describes the projects briefly, and more detailed description can be found in [statement](Statement.md).
+
 ### The International Genetically Engineered Machine Competition(iGEM) 2018
 
 * 2017.09 - 2018.10
