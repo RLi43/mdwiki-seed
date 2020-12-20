@@ -29,7 +29,7 @@ rdemezerl@gmail.com, jf-li16@mails.tsinghua.edu.cn
 
 ## Projects
 
-### [Allergy Testing Master: The Histamine Receptor Based Whole-Yeast Sensor]( http://2018.igem.org/Team:Tsinghua-A )
+### Allergy Testing Master: The Histamine Receptor Based Whole-Yeast Sensor
 
 * Sep 2017 - Oct 2018
 *  [Tsinghua-A](http://2018.igem.org/Team:Tsinghua-A), *The International Genetically Engineered Machine Competition(iGEM) 2018 Team*
