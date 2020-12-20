@@ -50,7 +50,7 @@ rdemezerl@gmail.com, jf-li16@mails.tsinghua.edu.cn
 * Presented demos in the lab on School Day, attracted an audience of over 100
 * Awarded Second Prize in *Excellent Project of Students Research Training at Tsinghua University*
 
-### [Footroller: Game shoes for the handicapped](https://rli43.github.io/Jiangfan_Li/Introduction/#!pages/P&C.md#Footroller)
+### Footroller: Game shoes for the handicapped
 
 * Sep 2018 - Jan 2020
 * *Graduation Project for the Technology Innovation & Entrepreneurship Minor*
@@ -77,7 +77,7 @@ rdemezerl@gmail.com, jf-li16@mails.tsinghua.edu.cn
 
 ## Internships
 
-### [Exploration and Implementation of Motion Planning Algorithm with Specified Optimization Goal](https://rli43.github.io/Jiangfan_Li/Introduction/#!pages/P&C.md#Exploration_and_Implementation_of_Motion_Planning_Algorithm_with_Specified_Optimization_Goal)
+### Exploration and Implementation of Motion Planning Algorithm with Specified Optimization Goal
 
 * Jul 2019 - Sep 2019
 * [Aqrose Technology]( http://www.aqrose.com/ ), Beijing, China
@@ -97,7 +97,7 @@ rdemezerl@gmail.com, jf-li16@mails.tsinghua.edu.cn
 
 ## Activities
 
-##### Member of Science \& Technology Competition Department, Student Union
+##### Member of Science & Technology Competition Department, Student Union
 
 * Feb. 2017 - July 2017
 * in Department of Chemistry Engineering
