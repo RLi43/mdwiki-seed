@@ -4,7 +4,7 @@
 
 ## Prologue
 
-This page briefly introduce the courses I’ve participated in.
+This page briefly introduces the courses I’ve participated in.
 
 The official courses catalogs can be found in http://zhjwxk.cic.tsinghua.edu.cn/, and the composition of course modules of degree programs can be found in http://zhjw.cic.tsinghua.edu.cn/. Both website need students' ID and password to login. I should have provided you with them if I know you need these data. If I happen to miss it, I would be appreciated to provide as soon as you [remind me](mailto:jf-li16@mails.tsinghua.edu.cn).
 
