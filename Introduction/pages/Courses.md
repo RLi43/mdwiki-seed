@@ -985,7 +985,7 @@ The course includes 1) Human's cognitive characteristics and information display
 * McGraw-Hill Stone, D., Jarrett, C., Woodroffe, M., & Minocha, S. (2005). User Interface Design and Evaluation, Morgan Kaufmann Publishers, Chap 1-4, 6, 9-13
 * Riggio, R. E. (2002). Introduction to Industrial/Organizational Psychology, 4th Edition, Prentice Hall, Chap 1, 3-6
 
-[More detail about the project](#projects)
+[More detail about the project](#Courses.md!#Projects in course)
 
 #### Intelligent Device Innovation Practice(3)
 
@@ -1104,7 +1104,7 @@ IHOS is a project about an app to provide better experience in hospital.
 
 Under this goal, we did some user study, comparative analysis, then we decided our target users, requirements of our product. Next, we had brain storm to set up our conceptual design and display it with low-fidelity prototype. After heuristic evaluation by ourselves and other groups, we refined our design and created our high-fidelity prototype with `Justinmind`. Finally we did user testing and concluded this project.
 
-[the final report of IHOS](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/Project%20IHOS/)
+[the final report of IHOS](https://cloud.tsinghua.edu.cn/f/cdf04557d8c84e649d5b/)
 
 Our project is the most popular project in final presentation. We got chocolate as the reward from Ms. Gao.
 
