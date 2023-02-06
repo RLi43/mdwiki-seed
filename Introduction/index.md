@@ -3,17 +3,17 @@
 
 ## Hello
 
-This is a website about Jiangfan Li, an undergraduate in Tsinghua University. 
+This is a website about Jiangfan Li, a robotics master student in EPFL. 
 
-Now she is applying for master programs in Robotics.
+Now she is applying for internships.
 
 ## Contact
 
-Address: Room 202A, Zijing 8#, Tsinghua University, Beijing, China, 100084
+Address: Rue XXX, Laussane 1007, Vaud, Switzerland
 
-Phone: +86 13121283966
+Phone: +41 779016202
 
-Email: rdemezerl@gmail.com, jf-li16@mails.tsinghua.edu.cn
+Email: rdemezerl@gmail.com, jiangfan.li@epfl.ch
 
 [Personal Website](https://rli43.github.io/Jiangfan_Li/Introduction/#!pages/resume.md)
 

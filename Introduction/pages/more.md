@@ -8,14 +8,11 @@
   * Captain, Feb 2018 – Feb 2019
 * As a second class team in Tsinghua, the best ranking we reached in last 4 years is 7th place(of  26 teams), but all of us gain happiness and friendship through training.
 
-![on field](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/basketball/DSC02353.JPG)
-
 ## Social Activities
 
 * Member of Science \& Technology Competition Department, Student Union, Department of Chemistry Engineering
   * Feb. 2017 - July 2017
-  * Things about holding competition like writing notification, design poster...
-  *  <img src="https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/activities/poster.jpg" alt="poster" style="zoom:25%;" />
+  * Things about holding competition like writing notification, designing poster...
 * FuMuSiNan Precision Poverty Alleviation Research Detachment
   * Jul 2017
   * Awards:
@@ -28,6 +25,3 @@
 * Volunteer
   * Blood Donation
   * Campus tour guide
-
-## Pictures of life
-

@@ -2,7 +2,7 @@
 
 [TOC]
 
-This page describes the projects briefly, and more detailed description can be found in [statement](Statement.md).
+## Projects in Bachelor University
 
 ### The International Genetically Engineered Machine Competition(iGEM) 2018
 
@@ -57,25 +57,9 @@ How disable people enjoy nowadays colorful digital life? Can they use the smart 
 
 This system connects PC through wireless network, sends sensor data to program runs on PC which can analysis the actions the user taking and respond with corresponding operation.
 
-### Exploration and Implementation of Motion Planning Algorithm with Specified Optimization Goal
-
-2020.07.01-2020.08.31
-
-A summer intern in [Aqrose Technology]( http://www.aqrose.com/ ), a company major in AI for robotics and automation. During the summer of 2019, I worked on planning algorithm of the robot. 
-
-Since a 6-axis Fanuc robot doesn’t give enough detail about its manipulation algorithms, we don’t know the accurate trajectory that robot will take, which makes it dangerous to operate in industry site. Therefore, I worked on a planning algorithm that have enough distance away from the obstacles to make sure that the robot won’t hit them in case the deviation happened.(Meanwhile, there’s another colleague worked on experiments to conjecture the algorithm in black box. Unfortunately, he haven't got the right answer until the end of the summer.)
-
-I learned about planning algorithm by [Planning Algorithms]( http://planning.cs.uiuc.edu/ ). After reading some papers, algorithms, finally I decided to use BIT* as the main algorithm. I set some penalization for short distance to obstacles and got a positive output. And modified the algorithm and speed up it.
-
-What's more, I explored the bi-directional BIT\* and concluded that a simple bi-directional adaption will not benefit BIT* much since it has taken the heuristic information about goal state into consideration.
-
-![biBITstar](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/aqrose/biBITstar.png)
-
-Here’s the [detailed report.pdf(Chinese)](https://cloud.tsinghua.edu.cn/d/a54c26b100784447b8f3/files/?p=%2Faqrose%2Freport%20of%20summer%20intern(Chinese).pdf) and [PPT]( https://cloud.tsinghua.edu.cn/f/decae61280884d46948e/ ) and a [essential version PPT]( https://cloud.tsinghua.edu.cn/f/a575d20f2ca749b0b7c3/ ). [Python Demos for biBIT*]( https://github.com/RLi43/RRTs/blob/master/BiBITstar.py )
-
 ### Internship in Future Lab
 
-2019.09 - Present
+2019.09 - 2021.01
 
 Working in the LEGO Group with [Dr. Meng Wang](http://thfl.tsinghua.edu.cn/info/post-doctoral/507), I participate in several projects about Modular TUI. Mostly deal with models, circuits, codes. Sometimes severed as a soldering android :laughing:.​
 
@@ -114,3 +98,36 @@ read sensor’ data through wireless network and reconstruct the pose of joints.
 ![](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/glove/main.png)![](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/glove/fpc.png)
 
 The development board and the FPC.
+
+## Internship
+
+### Exploration and Implementation of Motion Planning Algorithm with Specified Optimization Goal
+
+2020.07.01-2020.08.31
+
+A summer intern in [Aqrose Technology]( http://www.aqrose.com/ ), a company major in AI for robotics and automation. During the summer of 2019, I worked on planning algorithm of the robot. 
+
+Since a 6-axis Fanuc robot doesn’t give enough detail about its manipulation algorithms, we don’t know the accurate trajectory that robot will take, which makes it dangerous to operate in industry site. Therefore, I worked on a planning algorithm that have enough distance away from the obstacles to make sure that the robot won’t hit them in case the deviation happened.(Meanwhile, there’s another colleague worked on experiments to conjecture the algorithm in black box. Unfortunately, he haven't got the right answer until the end of the summer.)
+
+I learned about planning algorithm by [Planning Algorithms]( http://planning.cs.uiuc.edu/ ). After reading some papers, algorithms, finally I decided to use BIT* as the main algorithm. I set some penalization for short distance to obstacles and got a positive output. And modified the algorithm and speed up it.
+
+What's more, I explored the bi-directional BIT\* and concluded that a simple bi-directional adaption will not benefit BIT* much since it has taken the heuristic information about goal state into consideration.
+
+![biBITstar](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/aqrose/biBITstar.png)
+
+Here’s the [detailed report.pdf(Chinese)](https://cloud.tsinghua.edu.cn/d/a54c26b100784447b8f3/files/?p=%2Faqrose%2Freport%20of%20summer%20intern(Chinese).pdf) and [PPT]( https://cloud.tsinghua.edu.cn/f/decae61280884d46948e/ ) and a [essential version PPT]( https://cloud.tsinghua.edu.cn/f/a575d20f2ca749b0b7c3/ ). [Python Demos for biBIT*]( https://github.com/RLi43/RRTs/blob/master/BiBITstar.py )
+
+## Projects in Master Program
+
+### Robot Competition
+
+Empty PET bottles are everywhere after a party! We were asked to devise a robot to collect them on different terraces and recycle. Our robot, Well-E, equipped with a motion system with four wheels, a soft gripper and a bottle detection system driven by TensorFlow Lite model, collected 130 points in 10 minutes and won the competition.
+
+More details can be found in [the final report](https://drive.google.com/file/d/1a6YLnnijZq9Y63XLg7rrciTr51LOR2Sg/view?usp=sharing).
+
+### Fixed-base throwing
+
+How to throw the object to a desire target position? Previously, Yang proposed a method featured with a hedgehog-shape like data structure storing the robot geometrical information and backwards reachable tube representation storing the objects flying dynamics information. This project continuous his work and adapt the original method from the mobile robot(a robot with omnidirectional wheels) to the more generic settings -- the fixed-base robot(It may sounds easier with a fixed-base one intuitively, but actually it's more constrained and extra information have to be stored offline), by expanding the velocity hedgehog. Some algorithm optimization methods are applied and accelerated it by ~20 times. In addition, we also explored a more complex problem -- controlling rather the landing position but the orientation.
+
+Find out more from [the report](https://drive.google.com/file/d/1AA1faNb2QtpUauX2Eej-r46uxwxERK81/view?usp=sharing) if you are interested!
+

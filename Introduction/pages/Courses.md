@@ -6,7 +6,13 @@
 
 This page briefly introduces the courses I’ve participated in.
 
-The official courses catalogs can be found in http://zhjwxk.cic.tsinghua.edu.cn/, and the composition of course modules of degree programs can be found in http://zhjw.cic.tsinghua.edu.cn/. Both website need students' ID and password to login. I should have provided you with them if I know you need these data. If I happen to miss it, I would be appreciated to provide as soon as you [remind me](mailto:jf-li16@mails.tsinghua.edu.cn).
+## Master Courses
+
+
+
+## Bachelor Courses
+
+Here’s the brief Description for all the courses I’ve been taken as shown in transcription(in same order). Some courses with projects will be depicted in latter sections.
 
 It is highly recommended to read the [key to transcript](#!pages/Courses.md#KEY_TO_TRANSCRIPT), especially II and VI.
 
@@ -14,54 +20,6 @@ Documents:
 
 * [formal transcription (PDF)](https://cloud.tsinghua.edu.cn/f/16f854a2c89746dcb83f/)
 * course Description(PDF)
-
-## Ongoing Courses
-
-these courses’ grades will be updated before 2020/04/01.
-
-#### Financial Big Data and Quantitative Analytics
-
-Course Number: 01510313	Credit: 3	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
-
-Type: Minor Optional Course
-
-Description: 
-
-Quantitative investment is a challenging and fascinating field that combines the essence of multidisciplinary disciplines such as mathematical statistics, financial theory, sociology, and psychology. This course starts from a practical point of view and tries to open an entrance to this area with data analysis and model building. In this course, students are instructed to learn basic values and market behaviors, and master the market data analysis methods and tools.
-
-#### Applied stochastic process
-
-Course Number:  30250143	Credit: 3	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
-
-Type: Major Mathematics Course
-
-Description:
-
-The basic concepts of stochastic process, Poisson process and its extension, discrete parameter and continuous parameter Markov chain, discrete martingale introduction, Markov decision planning, introduction to stochastic differential equations.
-
-#### Intelligent optimization algorithm
-
-Course Number: 40250562	Credit: 2	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
-
-Type: Major Optional Course for Automation
-
-Description:
-
-This course is an introductory course on intelligent optimization algorithms, concisely and systematically introduces hot-spot intelligent optimization algorithms such as simulated annealing, genetic algorithm, tabu search, particle swarm optimization, differential evolution, neural optimization, chaos optimization and hybrid strategies. The content involves optimization mechanism, process, technology, combined with case analysis to guide algorithm application, highlighting practical technology and structural unity. At the same time, we will introduce the latest research progress at home and abroad, guide students to self-learn the latest intelligent optimization methods proposed by academia, and carry out corresponding design and application research.
-
-#### German as Second Foreign Language(1)
-
-Course Number: 14205054	Credit: 4	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
-
-Type: Foreign Language Course
-
-Description:
-
-German (second foreign language) (1) is a course for beginners of German language. This course consists of 8 units, teaching German pronunciation, intonation, everyday language, basic vocabulary and basic grammar. Each unit is organized around a theme, and basic skills such as listening, speaking, reading, writing and translation are trained. At the same time, this course introduces the local conditions and customs of German-speaking countries in order to broaden students’ cultural horizons and to enhance their intercultural communicative competence.
-
-## Courses Description 
-
-Here’s the brief Description for all the courses I’ve been taken as shown in transcription(in same order). Some courses with projects will be depicted in latter sections.
 
 ### First-Degree Courses
 
@@ -885,6 +843,26 @@ A project, namely, the footroller project of the graduation project for minor de
 
 This will be described in detail in my projects page.
 
+#### Intelligent optimization algorithm
+
+Course Number: 40250562	Credit: 2	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
+
+Type: Major Optional Course for Automation
+
+Description:
+
+This course is an introductory course on intelligent optimization algorithms, concisely and systematically introduces hot-spot intelligent optimization algorithms such as simulated annealing, genetic algorithm, tabu search, particle swarm optimization, differential evolution, neural optimization, chaos optimization and hybrid strategies. The content involves optimization mechanism, process, technology, combined with case analysis to guide algorithm application, highlighting practical technology and structural unity. At the same time, we will introduce the latest research progress at home and abroad, guide students to self-learn the latest intelligent optimization methods proposed by academia, and carry out corresponding design and application research.
+
+#### German as Second Foreign Language(1)
+
+Course Number: 14205054	Credit: 4	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
+
+Type: Foreign Language Course
+
+Description:
+
+German (second foreign language) (1) is a course for beginners of German language. This course consists of 8 units, teaching German pronunciation, intonation, everyday language, basic vocabulary and basic grammar. Each unit is organized around a theme, and basic skills such as listening, speaking, reading, writing and translation are trained. At the same time, this course introduces the local conditions and customs of German-speaking countries in order to broaden students’ cultural horizons and to enhance their intercultural communicative competence.
+
 ### Minor Courses
 
 Minor Subject: Technology Innovation & Entrepreneurship Minor on Connected Devices 
@@ -995,8 +973,17 @@ Type: Practice Course
 
 Description:
 
-
 In the third semester, the team will refine their work, write an entrepreneurship plan, write a patent application, and finish the final project defense.
+
+#### Financial Big Data and Quantitative Analytics
+
+Course Number: 01510313	Credit: 3	Grade: \* 	Points: \*(\*)	Year-Semester: 2020-Autumn
+
+Type: Minor Optional Course
+
+Description: 
+
+Quantitative investment is a challenging and fascinating field that combines the essence of multidisciplinary disciplines such as mathematical statistics, financial theory, sociology, and psychology. This course starts from a practical point of view and tries to open an entrance to this area with data analysis and model building. In this course, students are instructed to learn basic values and market behaviors, and master the market data analysis methods and tools.
 
 ## Projects in course
 
@@ -1110,7 +1097,7 @@ Our project is the most popular project in final presentation. We got chocolate 
 
 ![](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/Project%20IHOS/ihos_choc.jpg) 
 
-## KEY TO TRANSCRIPT
+### KEY TO TRANSCRIPT
 
 #### I. COURSE NUMBERING SYSTEM
 

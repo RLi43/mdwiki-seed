@@ -8,16 +8,20 @@
 
 #### First Degree: Automation
 
-* Sep 2016 – Jul 2020(expected)
+* Sep 2016 – Jul 2021
 * GPA: 3.56(184 credits)
 * Core Courses([Details](Courses.md#First-Degree_Courses)): Automatic Control Theory / Computer Networks and Applications / Foundation of Artificial Intelligence / Signals and System Analysis / Digital Electronics 
 
 #### Minor Subject:  Technology Innovation & Entrepreneurship Minor on Connected Devices(TIE)
 
-* Sep 2018 – Present
-
 * GPA: 3.87(22 credits)
 * Core Courses([Details](Courses.md#Minor_Courses)): Smart Things and Intelligence Systems / Global Industry and Technology Strategy / Modern Human Factors / Theory and Practice of Human Computer Interaction
+
+### Master of Science, Swiss Federal Institute of Technology in Lausanne(EPFL)
+#### First Degree: Robotics
+* Sep 2021 - Feb 2024(Expected)
+
+#### Minor in Computer Science
 
 ## Projects
 
@@ -67,6 +71,20 @@
 * Designed and implemented a lighter and more effective version of a joint pose sensing glove for future use in collecting pose data of hands
 * Constructed a welding and testing platform at home for experimental use due to the pandemic
 
+### [Interdisciplinary Robot Competition](https://robot-competition.epfl.ch/)
+
+* Feb 2022 - Jun 2022
+* *School of Engineering, EPFL*
+* Designed and implemented [a soft-gripper robot](https://www.bilibili.com/video/BV1JS4y1n7bU) using Raspberry Pi, object detection using deep learning network(TensorFlow Lite)
+* **Win the first place** among 4 teams for collecting the most bottles 
+
+### Fixed-base Manipulator Throwing
+
+* Sep 2022 - Jan 2023
+* *Learning Algorithm and System Laboratory(LASA), EPFL*
+* Adapted [current mobile-base solution](https://arxiv.org/abs/2207.10629) to fix-base manipulators and accelerated the algorithm
+* Explored the bottle flip change with a robot arm
+
 ## Internships
 
 ### Exploration and Implementation of Motion Planning Algorithm with Specified Optimization Goal
@@ -78,7 +96,7 @@
 
 ## Skills
 
-* **Programming**: Proficient in Python, C++, Matlab 
+* **Programming**: Proficient in Python, C/C++, Matlab; Familiar with Java/Scala
 * **Platform**: Proficient in Arduino, SparkDesign; Familiar with ROS/Linux
 * **Tools**: Familiar with Git, Wiki, Docker tools
 * **Language**: Chinese, English(TOEFL: 100 (R:30, L:26, S:21, W:23), GRE: V158, Q170, A3.0)
