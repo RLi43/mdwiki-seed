@@ -1,6 +1,6 @@
 # Resume
 
-[Resume(pdf)](https://cloud.tsinghua.edu.cn/f/826fd3b273a146e7993b/)
+[Resume(pdf)](https://drive.google.com/file/d/1LyRJvIiwY3YRieQnRN-j-6Ve3z30pNPr/view?usp=sharing)
 
 ## Education
 
@@ -23,7 +23,7 @@
 
 #### Minor in Computer Science
 
-## Projects
+## Projects(Find more detailed description in [Project](Projects.md) page)
 
 ### Allergy Testing Master: The Histamine Receptor Based Whole-Yeast Sensor
 

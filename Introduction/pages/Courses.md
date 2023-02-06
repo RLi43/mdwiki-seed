@@ -8,18 +8,89 @@ This page briefly introduces the courses I’ve participated in.
 
 ## Master Courses
 
+### Compulsory
 
+#### Applied Machine Learning
+
+Description: Real-world engineering applications must cope with a large dataset of dynamic variables, which cannot be well approximated by classical or deterministic models. This course gives an overview of methods from Machine Learning for the analysis of non-linear, highly noisy and multi dimensional data
+
+#### Basics of mobile robotics
+
+Description: The course teaches the basics of autonomous mobile robots. Both hardware (energy, locomotion, sensors) and software (signal processing, control, localization, trajectory planning, high-level control) will be tackled. The students will apply the knowledge to program and control a real mobile robot.
+
+#### Basics of robotics for manipulation
+
+Description: This course introduces the basics of robotics for manipulation. The aspects concerning robot architectures (Serial , Parallel and Cartesian), sensors, kinematics and dynamic modelling and control are presented. Each of these theoretical topics is concern with a industrial context.
+
+#### Model predictive control
+
+Description: Provide an introduction to the theory and practice of Model Predictive Control (MPC). Main benefits of MPC: flexible specification of time-domain objectives, performance optimization of highly complex multivariable systems and ability to explicitly enforce constraints on system behavior.
+
+#### Robotics practicals
+
+Description: The goal of this lab series is to practice the various theoretical frameworks acquired in the courses on a variety of robots, ranging from industrial robots to autonomous mobile robots, to robotic devices, all the way to interactive robots.
+
+#### Robotics project I
+
+The project ["Robot competition"](Projects.md#Robot_Competition).
+
+#### Philosophical perspectives on the exact sciences I
+
+Description: The course considers central themes in the philosophy of science, such as scientific realism and the ontology of physics. Starting from the debate between Leibniz and Newton about space and time, we move on to the transition from classical to quantum physics and the explanatory role of mathematics.
+
+#### Philosophical perspectives on the exact sciences II
+
+### Optional
+
+#### Controlling behavior in animals and robots
+
+Description: Students will acquire an integrative view on biological and artificial algorithms for controlling autonomous behaviors in animals and robots. Students will synthesize and apply this knowledge in oral presentations and exercises.
+
+#### Fundamentals of neuroengineering
+
+Description: Neuroengineering is at the frontier between neuroscience and engineering: understanding how the brain works allows developing engineering applications and therapies of high impact, while the design of new measurement and data analysis techniques contributes to advance our knowledge about the brain.
+
+#### Intelligent agents
+
+Description: Software agents are widely used to control physical, economic and financial processes. The course presents practical methods for implementing software agents and multi-agent systems, supported by programming exercises, and the theoretical underpinnings including computational game theory.
+
+#### Legged robots
+
+Description: The course presents the design, control, and applications of legged robots. It gives a review of different types of legged robots (including two-, four- and multi-legged robots), and an analysis of different control methods for legged locomotion.
+
+### Minor in Computer Science
+
+#### Algorithms
+
+Description: The students learn the theory and practice of basic concepts and techniques in algorithms. The course covers mathematical induction, techniques for analyzing algorithms, elementary data structures, major algorithmic paradigms such as dynamic programming, sorting and searching, and graph algorithms.
+
+#### Distributed algorithms
+
+Description: Computing is nowadays distributed over several machines, in a local IP-like network, a cloud or a P2P network. Failures are common and computations need to proceed despite partial failures of machines or communication links. This course will study the foundations of reliable distributed computing.
+
+#### Functional programming
+
+Understanding of the principles and applications of declaratative programming, the fundamental models of program execution, application of fundamental methods of program composition,meta-programming through the construction of interpreters and advanced programming techniques.
+
+#### Introduction to database systems
+
+This course provides a deep understanding of the concepts behind data management systems. It covers fundamental data management topics such as system architecture, data models, query processing and optimization, database design, storage organization, and transaction management.
+
+#### Machine learning
+
+Description: Machine learning methods are becoming increasingly central in many sciences and applications. In this course, fundamental principles and methods of machine learning will be introduced, analyzed and practically implemented.
+
+Keywords: *Machine learning, pattern recognition, deep learning, neural networks, data mining, knowledge discovery, algorithms*
+
+#### Optional project in computer science
+
+The project ["Velocity hedgehog for the fixed-base manipulator"](Projects.md#Fixed-base_throwing).
 
 ## Bachelor Courses
 
 Here’s the brief Description for all the courses I’ve been taken as shown in transcription(in same order). Some courses with projects will be depicted in latter sections.
 
 It is highly recommended to read the [key to transcript](#!pages/Courses.md#KEY_TO_TRANSCRIPT), especially II and VI.
-
-Documents:
-
-* [formal transcription (PDF)](https://cloud.tsinghua.edu.cn/f/16f854a2c89746dcb83f/)
-* course Description(PDF)
 
 ### First-Degree Courses
 
