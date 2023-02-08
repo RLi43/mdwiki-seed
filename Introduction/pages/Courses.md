@@ -1,4 +1,4 @@
-# Courses
+Courses
 
 [TOC]
 
@@ -12,11 +12,17 @@ This page briefly introduces the courses I’ve participated in.
 
 #### Applied Machine Learning
 
-Description: Real-world engineering applications must cope with a large dataset of dynamic variables, which cannot be well approximated by classical or deterministic models. This course gives an overview of methods from Machine Learning for the analysis of non-linear, highly noisy and multi dimensional data
+Course Description: Real-world engineering applications must cope with a large dataset of dynamic variables, which cannot be well approximated by classical or deterministic models. This course gives an overview of methods from Machine Learning for the analysis of non-linear, highly noisy and multi dimensional data
 
 #### Basics of mobile robotics
 
-Description: The course teaches the basics of autonomous mobile robots. Both hardware (energy, locomotion, sensors) and software (signal processing, control, localization, trajectory planning, high-level control) will be tackled. The students will apply the knowledge to program and control a real mobile robot.
+Course Description: The course teaches the basics of autonomous mobile robots. Both hardware (energy, locomotion, sensors) and software (signal processing, control, localization, trajectory planning, high-level control) will be tackled. The students will apply the knowledge to program and control a real mobile robot.
+
+Project: Soccer Playing with Mobile Robot(Thymio)
+
+* *Python*, [Github](https://github.com/CharlieLeee/Mobile_Soccer), [Slide](https://charlieleee.github.io/project/thymio/#slides)
+* In this project the goal is to combine **vision**, **path planning**, **local navigation**, and **filtering** in order to make Thymio robot navigate trough a map towards a goal.
+* ![Thymio soccer](https://drive.google.com/uc?export=view&id=1YlOf-ilIol7uBBlJwzz1GTDHrxUOjjIe)
 
 #### Basics of robotics for manipulation
 
@@ -26,9 +32,20 @@ Description: This course introduces the basics of robotics for manipulation. The
 
 Description: Provide an introduction to the theory and practice of Model Predictive Control (MPC). Main benefits of MPC: flexible specification of time-domain objectives, performance optimization of highly complex multivariable systems and ability to explicitly enforce constraints on system behavior.
 
+Project: Model Predictive Control of Mini Rocket
+
+* *Matlab*, [Report](https://charlieleee.github.io/project/mpc-rocket/MPC_Report.pdf)
+* In this project, we analyze and build the rocket motion model and design several MPC controllers(The pose regulator and the tracking controller).
+* ![MPC](https://drive.google.com/uc?export=view&id=1LuK6en6DHwC_w_Bpo5SKy4fx4TKWoyKu)
+
 #### Robotics practicals
 
 Description: The goal of this lab series is to practice the various theoretical frameworks acquired in the courses on a variety of robots, ranging from industrial robots to autonomous mobile robots, to robotic devices, all the way to interactive robots.
+
+Modular Lamprey Robot Control([Report](https://charlieleee.github.io/project/practical/TP8.pdf)):
+
+* *C*
+* [](https://youtu.be/9Rig8uKHdts)
 
 #### Robotics project I
 
@@ -54,9 +71,19 @@ Description: Neuroengineering is at the frontier between neuroscience and engine
 
 Description: Software agents are widely used to control physical, economic and financial processes. The course presents practical methods for implementing software agents and multi-agent systems, supported by programming exercises, and the theoretical underpinnings including computational game theory.
 
+Project: An Auctioning Agent for the Pickup and Delivery Problem(PDP)
+
+* *Java*
+* Based on Repast(Recursive Porous Agent Simulation Toolkit) and logist platform, we designed an agent for solving multi-agent PDP. The agent computes the optimal strategy and estimates the cost in given time and bit according to the marginal cost and the auction history.
+
 #### Legged robots
 
 Description: The course presents the design, control, and applications of legged robots. It gives a review of different types of legged robots (including two-, four- and multi-legged robots), and an analysis of different control methods for legged locomotion.
+
+Project: Quadrupedal Locomotion via Central Pattern Generator(CPG) and Reinforcement Learning(RL)
+
+* *Python*, [Github](https://github.com/RLi43/lr-proj2-quad-cpg-rl), [Report](https://www.overleaf.com/read/zkthgpqkjygg)
+* In this project, we control the locomotion of a quadrupedal robot via CPG and RL respectively. The CPG controller generates different gaits according to predefined parameter sets and keeps balance after tuning, which doesn't take much effort for most gaits. The maximum speed reached with the gait pronk, whereas the fastest gait for real dogs is rotatory gallop. In our opinion, for a faster locomotion with simple CPG, more sensors are needed to keep balance and seize the right moment to swing. (This implies the importance of reflex)
 
 ### Minor in Computer Science
 
@@ -66,17 +93,25 @@ Description: The students learn the theory and practice of basic concepts and te
 
 #### Distributed algorithms
 
+*Java*
+
 Description: Computing is nowadays distributed over several machines, in a local IP-like network, a cloud or a P2P network. Failures are common and computations need to proceed despite partial failures of machines or communication links. This course will study the foundations of reliable distributed computing.
 
 #### Functional programming
+
+*Scala/Java*
 
 Understanding of the principles and applications of declaratative programming, the fundamental models of program execution, application of fundamental methods of program composition,meta-programming through the construction of interpreters and advanced programming techniques.
 
 #### Introduction to database systems
 
+*SQL*
+
 This course provides a deep understanding of the concepts behind data management systems. It covers fundamental data management topics such as system architecture, data models, query processing and optimization, database design, storage organization, and transaction management.
 
 #### Machine learning
+
+*Python*
 
 Description: Machine learning methods are becoming increasingly central in many sciences and applications. In this course, fundamental principles and methods of machine learning will be introduced, analyzed and practically implemented.
 

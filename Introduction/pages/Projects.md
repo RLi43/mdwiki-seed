@@ -121,13 +121,16 @@ Here’s the [detailed report.pdf(Chinese)](https://cloud.tsinghua.edu.cn/d/a54c
 
 ### Robot Competition
 
+*Arduino, Raspberry Pi*, *Python*
+
 Empty PET bottles are everywhere after a party! We were asked to devise a robot to collect them on different terraces and recycle. Our robot, Well-E, equipped with a motion system with four wheels, a soft gripper and a bottle detection system driven by TensorFlow Lite model, collected 130 points in 10 minutes and won the competition.
 
 More details can be found in [the final report](https://drive.google.com/file/d/1a6YLnnijZq9Y63XLg7rrciTr51LOR2Sg/view?usp=sharing).
 
 ### Fixed-base throwing
 
+*Python*
+
 How to throw the object to a desire target position? Previously, Yang proposed a method featured with a hedgehog-shape like data structure storing the robot geometrical information and backwards reachable tube representation storing the objects flying dynamics information. This project continuous his work and adapt the original method from the mobile robot(a robot with omnidirectional wheels) to the more generic settings -- the fixed-base robot(It may sounds easier with a fixed-base one intuitively, but actually it's more constrained and extra information have to be stored offline), by expanding the velocity hedgehog. Some algorithm optimization methods are applied and accelerated it by ~20 times. In addition, we also explored a more complex problem -- controlling rather the landing position but the orientation.
 
 Find out more from [the report](https://drive.google.com/file/d/1AA1faNb2QtpUauX2Eej-r46uxwxERK81/view?usp=sharing) if you are interested!
-
