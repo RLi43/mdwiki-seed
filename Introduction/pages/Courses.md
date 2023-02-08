@@ -1095,6 +1095,8 @@ Quantitative investment is a challenging and fascinating field that combines the
 
 #### Data Structures
 
+*C++*
+
 ##### Reconstruct photo in random view point through several photos
 
 How to get a photo in random view point though several photos of this scene? There are several traditional way can reconstruct 3D model from RGB photos. However, simply projecting the 3D model will get some black area for there are always some objects lacking enough information can not be reconstruct. In paper *Depth Synthesis and Local Warps for Plausible Image-based Navigation*, a new method using the wrap of photos taken near the assigned view point was purposed. 
@@ -1126,6 +1128,8 @@ Also, PCA is applied to calculate the normal vector.
 
 #### Computer Networks and Applications
 
+*C#*
+
 ##### Online chatroom based on center server
 
 The code can be find here: https://github.com/RLi43/P2P-Chat-Room-base-on-Centrel-Sever
@@ -1136,6 +1140,8 @@ It is a PC application, an online chatroom, which is able to chat in P2P(the que
 
 #### Digital Image Processing
 
+*Matlab*
+
 ##### Fingerprint enhancement
 
 Enhance the quality of fingerprint using frequency filtering.
@@ -1145,6 +1151,8 @@ Enhance the quality of fingerprint using frequency filtering.
 3. low-pass filter
 
 #### Numerical Analysis and Algorithms
+
+*C#*
 
 ##### Transformation of face
 
@@ -1157,6 +1165,8 @@ Transform a face into a expression from another one.
 ![Face Transformation](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/Numerical%20Analysis/na.png)
 
 #### Foundation of Artificial Intelligence
+
+*Python*
 
 ##### Search: Tangram
 
