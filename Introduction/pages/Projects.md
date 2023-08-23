@@ -2,6 +2,8 @@
 
 [TOC]
 
+> I noticed that some links to photos are expired. But unfortunately I don't have a backup. Please just pretend as if there're somethings by the captions : )
+
 ## Projects in Bachelor University
 
 ### The International Genetically Engineered Machine Competition(iGEM) 2018
@@ -116,6 +118,12 @@ What's more, I explored the bi-directional BIT\* and concluded that a simple bi-
 ![biBITstar](https://cloud.tsinghua.edu.cn/thumbnail/a54c26b100784447b8f3/1024/aqrose/biBITstar.png)
 
 Here’s the [detailed report.pdf(Chinese)](https://cloud.tsinghua.edu.cn/d/a54c26b100784447b8f3/files/?p=%2Faqrose%2Freport%20of%20summer%20intern(Chinese).pdf) and [PPT]( https://cloud.tsinghua.edu.cn/f/decae61280884d46948e/ ) and a [essential version PPT]( https://cloud.tsinghua.edu.cn/f/a575d20f2ca749b0b7c3/ ). [Python Demos for biBIT*]( https://github.com/RLi43/RRTs/blob/master/BiBITstar.py )
+
+### !Ongoing! ==> Modular software architecture for Protection and Control in Substation Automation
+
+2023.04.01-2023.09.30(Expected)
+
+I started this internship in ABB about 5 months ago. Due to the confidential agreement I signed, I can't share much information here. But I will tell you that the workspace is very nice(except for the extreme heat this summer) and our colleagues as well. I think, so far the biggest benefit I had is to learn to cooperate with my teammates. Yes, indeed I did team works before, but they were always easy to divide to independent parts -- I write the code, you collect the result, he writes the report and she will present; we discussed together but one thing has only one executer -- we will never conflict. This time we are writing the same repository. More problems came out: "What should I comment here to let my colleague understand what I'm trying to do?",  "How should the interface be like so we can both take advantages from?", ... I'm glad to have my colleagues teach me, discuss with me and encourage me all these days.
 
 ## Projects in Master Program
 

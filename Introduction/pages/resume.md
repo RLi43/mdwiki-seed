@@ -1,6 +1,6 @@
 # Resume
 
-[Resume(pdf)](https://drive.google.com/file/d/1LyRJvIiwY3YRieQnRN-j-6Ve3z30pNPr/view?usp=sharing)
+[Resume(pdf)](https://drive.google.com/file/d/1FkawIJUADd_CijqrR-q4TdaWyfDQKZfY/view?usp=drive_link)
 
 ## Education
 
@@ -93,6 +93,13 @@
 * [Aqrose Technology]( http://www.aqrose.com/ ), Beijing, China
 * Reviewed and synthesized literature on variances of RRT* algorithms, posted a tutorial session on [video blog](https://www.bilibili.com/video/BV1m54y1r7tX/?spm_id_from=333.788.videocard.1)
 * Implemented a modified [BIT* Algorithm](https://arxiv.org/abs/1405.5848) using OMPL in C++ on the trajectory planner module of a Fanuc robot to avoid collision; tested on OpenRave; achieved an increase of the average clearance by 100% with less planning time
+
+### Modular software architecture for Protection and Control in Substation Automation
+
+* Apr 2023 - Sep 2023(expected)
+* ABB Schweiz AG, Baden-Daetwill, Switzerland
+* Devise automatic benchmark scripts and investigate the performance of a real-time system
+* Design and implement solutions for building decentralized modular architectures for real-time algorithms
 
 ## Skills
 
